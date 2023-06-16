@@ -1,3 +1,4 @@
+"https://github.com/ViVBling/RevelationPlusPlus/raw/jarmods/f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar" "RevelationPlusPlus\jarmods\f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/instance.cfg" "RevelationPlusPlus\instance.cfg"
 "https://drive.google.com/uc?export=download`&id=1jhACBTwTUZEBc3D3c-hvf8cRTqUMY_Tx" "RevelationPlusPlus\minecraft\mods\cocricotMOD_1.12.2_v1.11.0.jar"
 "https://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar" "RevelationPlusPlus\minecraft\mods\Computronics-1.12.2-1.6.6.jar"
