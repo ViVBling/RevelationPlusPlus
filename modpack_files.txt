@@ -236,7 +236,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/Thermal%20Expansion%20-%20Pulverizer.zs" "RevelationPlusPlus\minecraft\scripts\Thermal_Expansion_-_Pulverizer.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/Vanilla%20-%20Furnace.zs" "RevelationPlusPlus\minecraft\scripts\Vanilla_-_Furnace.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/recipes.zs" "RevelationPlusPlus\minecraft\scripts\recipes.zs"
-"https://static.wixstatic.com/media/f0a694_15fb36b5c613a275825fb2d8176a03cc.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f0a694_15fb36b5c613a275825fb2d8176a03cc.png" "RevelationPlusPlus\minecraft\icon.png"
+"https://static.wixstatic.com/media/f0a694_15fb36b5c613a275825fb2d8176a03cc.png" "RevelationPlusPlus\minecraft\icon.png"
 "https://teamopenindustry.cc/maven/cam72cam/immersiverailroading/ImmersiveRailroading/1.12.2-forge-1.9.1-32d9009/ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar" "RevelationPlusPlus\minecraft\mods\ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar"
 "https://teamopenindustry.cc/maven/cam72cam/universalmodcore/UniversalModCore/1.12.2-forge-1.1.4-18c5c71/UniversalModCore-1.12.2-forge-1.1.4-18c5c71.jar" "RevelationPlusPlus\minecraft\mods\UniversalModCore-1.12.2-forge-1.1.4-18c5c71.jar"
 "https://www.curseforge.com/api/v1/mods/220318/files/3558882/download" "RevelationPlusPlus\minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
