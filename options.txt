@@ -1,2 +1,2 @@
-resourcePacks:["mat_zen-35-1.2.2.zip","AudioCraftV1.6.zip","Hans Sound Pack.zip","Font Pack - Bahnschrift.zip","Better+Vanilla+1.7.1+[1.12].zip"]
+resourcePacks:["mat_zen-35-1.2.2.zip","AudioCraftV1.6.zip","Hans_Sound_Pack.zip","Font_Pack_-_Bahnschrift.zip","Better+Vanilla+1.7.1+[1.12].zip"]
 lastServer:karlscraft.ddns.net
