@@ -459,7 +459,7 @@
 "https://www.curseforge.com/api/v1/mods/303876/files/2623013/download" "RevelationPlusPlus\minecraft\mods\ResourceReloader-1.0.2.5.jar"
 "https://www.curseforge.com/api/v1/mods/304024/files/2830114/download" "RevelationPlusPlus\minecraft\mods\AE2WTLib-1.12.2-1.0.34.jar"
 "https://www.curseforge.com/api/v1/mods/305148/files/2640621/download" "RevelationPlusPlus\minecraft\config\immersiverailroading\friedrichlps-modern-stock.zip"
-"https://www.curseforge.com/api/v1/mods/305715/files/2753419/download" "RevelationPlusPlus\minecraft\mods\Immersive+Vehicles+(IV)+Seagull's+military+pack+1.7.4.jar"
+"https://www.curseforge.com/api/v1/mods/305715/files/2753419/download" "RevelationPlusPlus\minecraft\mods\Immersive+Vehicles+(IV)+Seagulls+military+pack+1.7.4.jar"
 "https://www.curseforge.com/api/v1/mods/305830/files/4536975/download" "RevelationPlusPlus\minecraft\mods\Trin+Civil+Pack-1.12.2-3.20.0.jar"
 "https://www.curseforge.com/api/v1/mods/306770/files/3162874/download" "RevelationPlusPlus\minecraft\mods\Patchouli-1.0-23.6.jar"
 "https://www.curseforge.com/api/v1/mods/307853/files/2892807/download" "RevelationPlusPlus\minecraft\mods\resizingpotion-2.2.jar"
