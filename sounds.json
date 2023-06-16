@@ -1,0 +1,20 @@
+{
+   "alarm-nuclear":{
+      "category":"master",
+      "sounds":[
+         {
+            "name":"energycontrol:alarm-nuclear",
+            "stream":true
+         }
+      ]
+   },
+   "alarm-zwangsbremsung":{
+      "category":"master",
+      "sounds":[
+         {
+            "name":"energycontrol:alarm-zwangsbremsung",
+            "stream":true
+         }
+      ]
+   }
+}
