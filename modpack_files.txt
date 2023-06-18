@@ -563,3 +563,5 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/brandon3055/DraconicEvolution.cfg" "RevelationPlusPlus\minecraft\config\brandon3055\DraconicEvolution.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/brandon3055/BrandonsCore.cfg" "RevelationPlusPlus\minecraft\config\brandon3055\BrandonsCore.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/buildcraft/main.cfg" "RevelationPlusPlus\minecraft\config\buildcraft\main.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/patches/net.minecraftforge.json" "RevelationPlusPlus\patches\net.minecraftforge.json"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/patches/org.multimc.jarmod.f5b1b23d-2304-4bf0-8b6b-124ecec26103.json" "RevelationPlusPlus\patches\org.multimc.jarmod.f5b1b23d-2304-4bf0-8b6b-124ecec26103.json"
