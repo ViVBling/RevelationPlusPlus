@@ -526,7 +526,7 @@
 "https://www.curseforge.com/api/v1/mods/422073/files/4438638/download" "RevelationPlusPlus\minecraft\mods\IAV_Parts_Pack_1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/425922/files/3190341/download" "RevelationPlusPlus\minecraft\mods\immersive_Pokers_Garage_1.1.jar"
 "https://www.curseforge.com/api/v1/mods/427473/files/4005632/download" "RevelationPlusPlus\minecraft\mods\Generals_General_Vehicles_2.1.2.jar"
-"https://www.curseforge.com/api/v1/mods/435557/files/4547571/download" "RevelationPlusPlus\minecraft\mods\LittleFrames_UNOFFICAL_by_Blake_v1.0.14_mc1.12.2.jar"
+"https://www.curseforge.com/api/v1/mods/257815/files/3047154/download" "RevelationPlusPlus\minecraft\mods\OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/438332/files/3862959/download" "RevelationPlusPlus\minecraft\mods\supermartijn642configlib-1.1.6-forge-mc1.12.jar"
 "https://www.curseforge.com/api/v1/mods/442519/files/4172050/download" "RevelationPlusPlus\minecraft\mods\AmericanSignsSignalsPack0.7.1.jar"
 "https://www.curseforge.com/api/v1/mods/446263/files/3582361/download" "RevelationPlusPlus\minecraft\mods\cactus_decor_pack_v16.jar"
