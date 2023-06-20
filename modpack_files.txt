@@ -357,3 +357,4 @@
 "https://www.curseforge.com/api/v1/mods/74924/files/2713386/download" "RevelationPlusPlus\minecraft\mods\Mantle-1.12-1.3.3.55.jar"
 "https://www.curseforge.com/api/v1/mods/78778/files/2524058/download" "RevelationPlusPlus\minecraft\mods\ChestTransporter-1.12.2-2.8.8.jar"
 "https://www.curseforge.com/api/v1/mods/79616/files/3347832/download" "RevelationPlusPlus\minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalexpansion\common.cfg"
