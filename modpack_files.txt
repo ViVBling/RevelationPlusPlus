@@ -359,3 +359,4 @@
 "https://www.curseforge.com/api/v1/mods/79616/files/3347832/download" "RevelationPlusPlus\minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalfoundation\common.cfg"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "RevelationPlusPlus\minecraft\config\cofh\world\config.cfg"
