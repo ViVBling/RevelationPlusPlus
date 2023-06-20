@@ -265,6 +265,7 @@
 "https://www.curseforge.com/api/v1/mods/297284/files/2644723/download" "RevelationPlusPlus\minecraft\mods\SleepingOverhaul-1.12.2-1.0.0.jar"
 "https://www.curseforge.com/api/v1/mods/302390/files/4413971/download" "RevelationPlusPlus\minecraft\mods\UNU+Parts+Pack+MTS+1.12.2-22.5.0-BETA3.jar"
 "https://www.curseforge.com/api/v1/mods/303876/files/2623013/download" "RevelationPlusPlus\minecraft\mods\ResourceReloader-1.0.2.5.jar"
+"https://www.curseforge.com/api/v1/mods/226447/files/2477566/download" "RevelationPlusPlus\minecraft\mods\ResourceLoader-MC1.12.1-1.5.3.jar"
 "https://www.curseforge.com/api/v1/mods/304024/files/2830114/download" "RevelationPlusPlus\minecraft\mods\AE2WTLib-1.12.2-1.0.34.jar"
 "https://www.curseforge.com/api/v1/mods/305148/files/2640621/download" "RevelationPlusPlus\minecraft\config\immersiverailroading\friedrichlps-modern-stock.zip"
 "https://www.curseforge.com/api/v1/mods/305715/files/2753419/download" "RevelationPlusPlus\minecraft\mods\Immersive+Vehicles+IV+Seagulls+military+pack+1.7.4.jar"
