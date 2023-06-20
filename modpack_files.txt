@@ -360,3 +360,4 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "RevelationPlusPlus\minecraft\config\cofh\world\config.cfg"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/CustomMainMenu/mainmenu.json" "RevelationPlusPlus\minecraft\config\CustomMainMenu\mainmenu.json"
