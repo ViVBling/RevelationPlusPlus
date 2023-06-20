@@ -536,7 +536,7 @@
 "https://www.curseforge.com/api/v1/mods/478214/files/3666803/download" "RevelationPlusPlus\minecraft\mods\cactus_vehicle_pack_v4.jar"
 "https://www.curseforge.com/api/v1/mods/500154/files/4040963/download" "RevelationPlusPlus\minecraft\mods\iv_nrv-Beta_2.41.jar"
 "https://www.curseforge.com/api/v1/mods/509908/files/3407318/download" "RevelationPlusPlus\minecraft\resourcepacks\mat_zen-35-1.2.2.zip"
-"https://www.curseforge.com/api/v1/mods/51195/files/3853491/download" "RevelationPlusPlus\minecraft\mods\railcraft-12.0.0.jar"
+"https://www.curseforge.com/api/v1/mods/51195/files/2687757/download" "RevelationPlusPlus\minecraft\mods\railcraft-12.0.0.jar"
 "https://www.curseforge.com/api/v1/mods/513881/files/4513313/download" "RevelationPlusPlus\minecraft\mods\Craftspeed+1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/525828/files/3454364/download" "RevelationPlusPlus\minecraft\mods\EquivalentEnergistics-1.12.2-PE_1.4.1-0.8.4.jar"
 "https://www.curseforge.com/api/v1/mods/530000/files/4586567/download" "RevelationPlusPlus\minecraft\config\immersiverailroading\Tram_pack_v2.2.zip"
