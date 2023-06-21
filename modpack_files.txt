@@ -363,5 +363,6 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/openblocks.cfg" "RevelationPlusPlus\minecraft\config\openblocks.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/V10verlap.cfg" "RevelationPlusPlus\minecraft\config\V10verlap.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/mekanism.cfg" "RevelationPlusPlus\minecraft\config\mekanism.cfg
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiveengineering.cfg" "RevelationPlusPlus\minecraft\config/immersiveengineering.cfg"
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersivepetroleum.cfg" "RevelationPlusPlus\minecraft\config/immersivepetroleum.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiveengineering.cfg" "RevelationPlusPlus\minecraft\config\immersiveengineering.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersivepetroleum.cfg" "RevelationPlusPlus\minecraft\config\immersivepetroleum.cfg"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/config/ic2.ini" "RevelationPlusPlus\minecraft\config\ic2.ini"
