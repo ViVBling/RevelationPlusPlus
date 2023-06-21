@@ -362,3 +362,4 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "RevelationPlusPlus\minecraft\config\cofh\world\config.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/openblocks.cfg" "RevelationPlusPlus\minecraft\config\openblocks.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/V10verlap.cfg" "RevelationPlusPlus\minecraft\config\V10verlap.cfg"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/config/mekanism.cfg" "RevelationPlusPlus\minecraft\config\mekanism.cfg
