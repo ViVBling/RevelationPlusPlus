@@ -367,3 +367,4 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersivepetroleum.cfg" "RevelationPlusPlus\minecraft\config\immersivepetroleum.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/ic2.ini" "RevelationPlusPlus\minecraft\config\ic2.ini"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/quarryplus/quarryplus.cfg" "RevelationPlusPlus\minecraft\config\quarryplus\quarryplus.cfg"
+"https://www.curseforge.com/api/v1/mods/311846/files/4136686/download" "RevelationPlusPlus\minecraft\mods\ic2-tweaker-0.2.1+build.4.jar"
