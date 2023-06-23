@@ -366,3 +366,4 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiveengineering.cfg" "RevelationPlusPlus\minecraft\config\immersiveengineering.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersivepetroleum.cfg" "RevelationPlusPlus\minecraft\config\immersivepetroleum.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/ic2.ini" "RevelationPlusPlus\minecraft\config\ic2.ini"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/config/cyclicmagic.cfg" "RevelationPlusPlus\minecraft\config\cyclicmagic.cfg"
