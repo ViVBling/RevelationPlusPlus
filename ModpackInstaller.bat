@@ -1,5 +1,5 @@
 @echo off
-MODE 320, 50
+REM MODE 320, 50
 TITLE Revelation++ Installer
 
 COLOR 09
