@@ -1,5 +1,6 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
+
 //Remove
 recipes.remove(<mtr:m_train>);
 recipes.remove(<mtr:m_train:1>);
@@ -8,7 +9,9 @@ recipes.remove(<mtr:sp1900:1>);
 recipes.remove(<mtr:sp1900:2>);
 recipes.remove(<chisel:futura>);
 recipes.remove(<simplevoidworld:portal>);
+
 //#Add
+<ore:stoneBasalt>.add(<ic2:resource:0>);
 recipes.addShaped(<equivalentenergistics:emc_cell_creative>, [[<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})],[<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <ic2:debug_item>, <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})], [<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})]]);
 recipes.addShapedMirrored(<milifi:iridium_hoe>, [[<ore:ingotIridium>, <ore:ingotIridium>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, null]]);
 recipes.addShapedMirrored(<milifi:iridium_sword>, [[null, <ore:ingotIridium>, null],[null, <ore:ingotIridium>, null], [null, <ore:stickWood>, null]]);
@@ -43,6 +46,7 @@ recipes.addShaped(<simplevoidworld:portal>, [[<openblocks:tank>.withTag({tank: {
 recipes.addShaped(<computercraft:wired_modem_full>, [[<ore:stone>, <ore:stone>, <ore:stone>],[<ore:stone>, <minecraft:redstone>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
 recipes.addShaped(<chisel:futura>, [[<ore:dye>, <ore:dye>, <ore:dye>],[<ore:dye>, <extrautils2:decorativesolid:3>, <ore:dye>], [<ore:dye>, <ore:dye>, <ore:dye>]]);
 mods.chisel.Carving.addGroup("diagonal_connector");
+mods.chisel.Carving.addVariation("basalt", <ic2:resource>);
 mods.chisel.Carving.addVariation("diagonal_connector", <furenikusroads:road_block_diagonal_1_1>);
 mods.chisel.Carving.addVariation("diagonal_connector", <furenikusroads:road_block_diagonal_1_2>);
 mods.chisel.Carving.addVariation("diagonal_connector", <furenikusroads:road_block_diagonal_1_4>);
@@ -226,4 +230,5 @@ recipes.addShapeless(<minecraft:obsidian>, [<minecraft:lava_bucket>,<ore:listAll
 recipes.addShapeless(<minecraft:planks>, [<ore:stickWood>,<ore:stickWood>]);
 recipes.addShapeless(<cyclicmagic:battery_infinite>, [<ic2:debug_item>]);
 recipes.addShapeless(<ic2:debug_item>, [<cyclicmagic:battery_infinite>]);
+
 //File End
