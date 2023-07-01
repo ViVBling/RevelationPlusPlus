@@ -27,3 +27,8 @@ mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <galacticraftplan
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <galacticraftplanets:asteroids_block:0>, 3000, <enderio:item_material:31>, 100);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <galacticraftplanets:asteroids_block:1>, 3000, <thermalfoundation:material:0>, 50);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <galacticraftplanets:asteroids_block:0>, 3000, <thermalfoundation:material:0>, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:diamond_grit>, 3000, <ic2:dust:36>, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:gold_grit>, 3000, <ore:dustTinyGold>.firstItem, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:coal_grit>, 3000, <extrabees:misc:18>, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:iron_grit>, 3000, <ore:dustTinyIron>.firstItem, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:emerald_grit>, 3000, <ic2:dust:35>, 100);
