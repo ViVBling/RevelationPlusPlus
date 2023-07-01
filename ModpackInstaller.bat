@@ -81,11 +81,13 @@ ECHO [!date! - !time!] Installation abgeschlossen!
 
 CALL :MsgBox "Soll Revelation++ nun gestartet werden?"  "VBYesNo+VBQuestion" "Installation abgeschlossen!"
 IF errorlevel 7 (
+	DEL Installer.bat
 	EXIT /B
 )
 ELSE IF errorlevel 6 (
 	CD..
 	START MultiMC.exe -l "RevelationPlusPlus"
+	DEL Installer.bat
 	EXIT /B
 )
 
