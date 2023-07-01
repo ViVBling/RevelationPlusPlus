@@ -32,6 +32,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/enchanted_books_2.zs" "RevelationPlusPlus\minecraft\scripts\enchanted_books_2.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/industrialcraft2_canner.zs" "RevelationPlusPlus\minecraft\scripts\industrialcraft2_canner.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/icbm_recipes.zs" "RevelationPlusPlus\minecraft\scripts\icbm_recipes.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/industrialcraft2_liquid_heat_exchanger.zs" "RevelationPlusPlus\minecraft\scripts\industrialcraft2_liquid_heat_exchanger.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_chemical_crystallizer.zs" "RevelationPlusPlus\minecraft\scripts\mekanism_chemical_crystallizer.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_chemical_oxidizer.zs" "RevelationPlusPlus\minecraft\scripts\mekanism_chemical_oxidizer.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_crusher.zs" "RevelationPlusPlus\minecraft\scripts\mekanism_crusher.zs"
