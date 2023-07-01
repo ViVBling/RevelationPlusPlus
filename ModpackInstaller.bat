@@ -58,6 +58,7 @@ md "RevelationPlusPlus\minecraft\mods"
 md "RevelationPlusPlus\minecraft\marytts"
 md "RevelationPlusPlus\minecraft\resourcepacks"
 md "RevelationPlusPlus\minecraft\scripts"
+md "RevelationPlusPlus\minecraft\journeymap\config\5.7"
 md "RevelationPlusPlus\patches"
 md "RevelationPlusPlus\jarmods"
 
