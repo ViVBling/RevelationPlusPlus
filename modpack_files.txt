@@ -342,7 +342,7 @@
 "https://www.curseforge.com/api/v1/mods/530000/files/4586567/download" "RevelationPlusPlus\minecraft\config\immersiverailroading\Tram_pack_v2.2.zip"
 "https://www.curseforge.com/api/v1/mods/533008/files/4301108/download" "RevelationPlusPlus\minecraft\mods\City_Cars_IV_2.1.0.jar"
 "https://www.curseforge.com/api/v1/mods/544294/files/3622745/download" "RevelationPlusPlus\minecraft\mods\Blus_Sign_Pack_V1.2.0.jar"
-"https://www.curseforge.com/api/v1/mods/564236/files/4399905/download" "RevelationPlusPlus\minecraft\mods\Galacticraft-1.12.2-4.0.5.jar"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/mods/Galacticraft-1.12.2-4.0.6.jar" "RevelationPlusPlus\minecraft\mods\Galacticraft-1.12.2-4.0.5.jar"
 "https://www.curseforge.com/api/v1/mods/583103/files/4556039/download" "RevelationPlusPlus\minecraft\mods\R.A.G.E_2.0_alpha1_1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/59218/files/2924423/download" "RevelationPlusPlus\minecraft\mods\1.12.2_bspkrscore-universal-8.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/59413/files/2724705/download" "RevelationPlusPlus\minecraft\mods\EnchantingPlus-1.12.2-5.0.179.jar"
