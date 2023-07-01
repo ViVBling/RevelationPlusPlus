@@ -48,6 +48,7 @@
 "https://teamopenindustry.cc/maven/cam72cam/immersiverailroading/ImmersiveRailroading/1.12.2-forge-1.9.1-32d9009/ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar" "RevelationPlusPlus\minecraft\mods\ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/projectE/custom_emc.json" "RevelationPlusPlus\minecraft\config\projectE\custom_emc.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderioconduits.cfg" "RevelationPlusPlus\minecraft\config\enderio\enderioconduits.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/cyclicmagic.cfg" "RevelationPlusPlus\minecraft\config\cyclicmagic.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/natura.cfg" "RevelationPlusPlus\minecraft\config\natura.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderiomachines.cfg" "RevelationPlusPlus\minecraft\config\enderio\enderiomachines.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderio.cfg" "RevelationPlusPlus\minecraft\config\enderio\enderio.cfg"
