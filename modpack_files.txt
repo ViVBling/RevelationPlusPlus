@@ -15,6 +15,7 @@
 "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar`&x=4c5e53198dcdd02db2d2e8f2bd127003" "RevelationPlusPlus\minecraft\mods\OptiFine_1.12.2_HD_U_G5.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/07788372bc4ee6e2e80835bad71cdf81d3b5a039/sounds.json" "RevelationPlusPlus\minecraft\config\alarms\assets\energycontrol\sounds.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/customjar-1.jar" "RevelationPlusPlus\libraries\customjar-1.jar"
+"https://www.curseforge.com/api/v1/mods/311846/files/4136686/download" "RevelationPlusPlus\minecraft\mods\ic2-tweaker-0.2.1+build.4.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/instance.cfg" "RevelationPlusPlus\instance.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/mmc-pack.json" "RevelationPlusPlus\mmc-pack.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/00_recipe_changes.zs" "RevelationPlusPlus\minecraft\scripts\00_recipe_changes.zs"
