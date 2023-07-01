@@ -42,7 +42,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_energetic_infuser.zs" "RevelationPlusPlus\minecraft\scripts\thermal_expansion_energetic_infuser.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_fluid_transposer.zs" "RevelationPlusPlus\minecraft\scripts\thermal_expansion_fluid_transposer.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_induction_smelter.zs" "RevelationPlusPlus\minecraft\scripts\thermal_expansion_induction_smelter.zs"
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_magma_crucible.zs" "RevelationPlusPlus\minecraft\scripts\Thermal_Expansion_-_Magma_Crucible.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_magma_crucible.zs" "RevelationPlusPlus\minecraft\scripts\thermal_expansion_magma_crucible.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_pulverizer.zs" "RevelationPlusPlus\minecraft\scripts\thermal_expansion_pulverizer.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/vanilla_furnace.zs" "RevelationPlusPlus\minecraft\scripts\vanilla_furnace.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/recipes.zs" "RevelationPlusPlus\minecraft\scripts\recipes.zs"
