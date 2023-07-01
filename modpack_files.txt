@@ -12,7 +12,7 @@
 "https://mediafilez.forgecdn.net/files/2576/320/xujmod-2.0.8.jar" "RevelationPlusPlus\minecraft\mods\xujmod-2.0.8.jar"
 "https://mediafilez.forgecdn.net/files/2643/67/V10verlap-5.0.2.jar" "RevelationPlusPlus\minecraft\mods\V10verlap-5.0.2.jar"
 "https://mod-buildcraft.com/releases/BuildCraft/7.99.24.8/buildcraft-all-7.99.24.8.jar" "RevelationPlusPlus\minecraft\mods\buildcraft-all-7.99.24.8.jar"
-"https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar`&x=4c5e53198dcdd02db2d2e8f2bd127003" "RevelationPlusPlus\minecraft\mods\OptiFine_1.12.2_HD_U_G5.jar"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar" "RevelationPlusPlus\minecraft\mods\preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/07788372bc4ee6e2e80835bad71cdf81d3b5a039/sounds.json" "RevelationPlusPlus\minecraft\config\alarms\assets\energycontrol\sounds.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/customjar-1.jar" "RevelationPlusPlus\libraries\customjar-1.jar"
 "https://www.curseforge.com/api/v1/mods/311846/files/4136686/download" "RevelationPlusPlus\minecraft\mods\ic2-tweaker-0.2.1+build.4.jar"
