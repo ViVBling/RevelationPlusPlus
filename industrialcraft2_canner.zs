@@ -34,7 +34,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <harvest
 print("Done with initializing the Canner Recipes!");
 
 for itemDefinition in game.items{
-	if !isNull(itemDefinition) && itemDefinition.makeStack(0).healAmount > 0 && (itemDefinition.makeStack(0) instanceof Item) {
+	if !isNull(itemDefinition) && itemDefinition.makeStack(0).healAmount > 0 && (itemDefinition.makeStack(0) instanceof ItemFood) {
 		print("Trying to register " ~ itemDefinition.name ~ "(ID: " ~ itemDefinition.id ~ ") as Canner Recipe...");
 		val healAmount = itemDefinition.makeStack(0).healAmount;
 		Canner.addBottleRecipe(<ic2:filled_tin_can> * healAmount, <ic2:crafting:10> * healAmount, itemDefinition.makeStack(0));
