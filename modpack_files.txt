@@ -340,6 +340,7 @@
 "https://www.curseforge.com/api/v1/mods/513881/files/4513313/download" "RevelationPlusPlus\minecraft\mods\Craftspeed+1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/525828/files/3454364/download" "RevelationPlusPlus\minecraft\mods\EquivalentEnergistics-1.12.2-PE_1.4.1-0.8.4.jar"
 "https://www.curseforge.com/api/v1/mods/530000/files/4586567/download" "RevelationPlusPlus\minecraft\config\immersiverailroading\Tram_pack_v2.2.zip"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ic2.ini" "RevelationPlusPlus\minecraft\config\ic2.ini"
 "https://www.curseforge.com/api/v1/mods/533008/files/4301108/download" "RevelationPlusPlus\minecraft\mods\City_Cars_IV_2.1.0.jar"
 "https://www.curseforge.com/api/v1/mods/544294/files/3622745/download" "RevelationPlusPlus\minecraft\mods\Blus_Sign_Pack_V1.2.0.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/Galacticraft-1.12.2-4.0.6.jar" "RevelationPlusPlus\minecraft\mods\Galacticraft-1.12.2-4.0.5.jar"
