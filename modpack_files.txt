@@ -196,7 +196,7 @@
 "https://www.curseforge.com/api/v1/mods/252042/files/2756710/download" "RevelationPlusPlus\minecraft\mods\Morepaintings-paintings-1.12.2-5.0.1.2.jar"
 "https://www.curseforge.com/api/v1/mods/252714/files/2652182/download" "RevelationPlusPlus\minecraft\mods\Advanced+Solar+Panels-4.3.0.jar"
 "https://www.curseforge.com/api/v1/mods/252848/files/2893527/download" "RevelationPlusPlus\minecraft\mods\NaturesCompass-1.12.2-1.8.5.jar"
-"https://www.curseforge.com/api/v1/mods/253043/files/3597087/download" "RevelationPlusPlus\minecraft\mods\WanionLib-1.12.2-2.9.jar"
+"https://www.curseforge.com/api/v1/mods/253043/files/4623135/download" "RevelationPlusPlus\minecraft\mods\WanionLib-1.12.2-2.91.jar"
 "https://www.curseforge.com/api/v1/mods/253211/files/3308160/download" "RevelationPlusPlus\minecraft\mods\MTLib-3.0.7.jar"
 "https://www.curseforge.com/api/v1/mods/253230/files/2465617/download" "RevelationPlusPlus\minecraft\mods\InitialInventory-3.0.0.jar"
 "https://www.curseforge.com/api/v1/mods/253462/files/2834651/download" "RevelationPlusPlus\minecraft\mods\StevesCarts-1.12.2-2.4.32.137.jar"
