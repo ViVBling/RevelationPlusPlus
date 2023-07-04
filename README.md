@@ -1,2 +1,2 @@
 # RevelationPlusPlus
-Wiki-Hilfsseiten für "Revelation++".
+Github-Verzeichnis für das Revelation++ Modpack.
