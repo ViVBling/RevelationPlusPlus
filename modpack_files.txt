@@ -54,6 +54,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/5.7/journeymap.minimap.config" "RevelationPlusPlus\minecraft\journeymap\config\5.7\journeymap.minimap.config"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/5.7/journeymap.fullmap.config" "RevelationPlusPlus\minecraft\journeymap\config\5.7\journeymap.fullmap.config"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/rftools/dimensions.cfg" "RevelationPlusPlus\minecraft\config\rftools\dimensions.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiverailroading.cfg" "RevelationPlusPlus\minecraft\config\immersiverailroading.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/rftools/rftools.cfg" "RevelationPlusPlus\minecraft\config\rftools\rftools.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/rftools/rftoolspower.cfg" "RevelationPlusPlus\minecraft\config\rftools\rftoolspower.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/worldprimer.cfg" "RevelationPlusPlus\minecraft\config\worldprimer.cfg"
