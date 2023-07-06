@@ -9,8 +9,10 @@ recipes.remove(<mtr:sp1900:1>);
 recipes.remove(<mtr:sp1900:2>);
 recipes.remove(<chisel:futura>);
 recipes.remove(<simplevoidworld:portal>);
+recipes.remove(<cyclicmagic:sprout_seed>);
 
 //#Add
+recipes.addShaped(<cyclicmagic:sprout_seed>, [[<mysticalagradditions:insanium:1>, <mysticalagradditions:insanium:1>, <mysticalagradditions:insanium:1>],[<mysticalagradditions:insanium:1>, <ore:seedWheat>, <mysticalagradditions:insanium:1>], [<mysticalagradditions:insanium:1>, <mysticalagradditions:insanium:1>, <mysticalagradditions:insanium:1>]]);
 <ore:stoneBasalt>.add(<ic2:resource:0>);
 recipes.addShaped(<equivalentenergistics:emc_cell_creative>, [[<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})],[<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <ic2:debug_item>, <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})], [<equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long}), <equivalentenergistics:emc_cell:7>.withTag({emc: 16384000000 as long}).onlyWithTag({emc: 16384000000 as long})]]);
 recipes.addShapedMirrored(<milifi:iridium_hoe>, [[<ore:ingotIridium>, <ore:ingotIridium>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, null]]);
