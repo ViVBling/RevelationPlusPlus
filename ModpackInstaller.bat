@@ -88,7 +88,8 @@ IF errorlevel 7 (
 )
 ELSE IF errorlevel 6 (
 	CD..
-	START MultiMC.exe -l "RevelationPlusPlus"
+	START "" MultiMC.exe -l "RevelationPlusPlus"
+	CD instances
 	DEL Installer.bat
 	EXIT /B
 )
