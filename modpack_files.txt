@@ -75,7 +75,7 @@
 "https://www.curseforge.com/api/v1/mods/221053/files/2991593/download" "RevelationPlusPlus\minecraft\mods\B3M-1.12.2-17.jar"
 "https://www.curseforge.com/api/v1/mods/221857/files/2904825/download" "RevelationPlusPlus\minecraft\mods\Pams+HarvestCraft+1.12.2zg.jar"
 "https://www.curseforge.com/api/v1/mods/222880/files/2926428/download" "RevelationPlusPlus\minecraft\mods\ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
-"https://www.curseforge.com/api/v1/mods/223008/files/4566834/download" "RevelationPlusPlus\minecraft\mods\OpenComputers-MC1.12.2-1.8.2+b4abbf9.jar"
+"https://www.curseforge.com/api/v1/mods/223008/files/4630537/download" "RevelationPlusPlus\minecraft\mods\OpenComputers-MC1.12.2-1.8.3+274990f.jar"
 "https://www.curseforge.com/api/v1/mods/223094/files/2923460/download" "RevelationPlusPlus\minecraft\mods\InventoryTweaks-1.64+dev.151.jar"
 "https://www.curseforge.com/api/v1/mods/223359/files/2495580/download" "RevelationPlusPlus\minecraft\mods\Squeedometer-mc1.12.x-1.0.4.jar"
 "https://www.curseforge.com/api/v1/mods/223525/files/2916129/download" "RevelationPlusPlus\minecraft\mods\binnie-mods-1.12.2-2.5.1.203.jar"
