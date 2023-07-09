@@ -335,6 +335,7 @@
 "https://www.curseforge.com/api/v1/mods/379232/files/4527216/download" "RevelationPlusPlus\minecraft\mods\tesseract-1.0.34-forge-mc1.12.jar"
 "https://www.curseforge.com/api/v1/mods/382381/files/2953279/download" "RevelationPlusPlus\minecraft\mods\fireresistancetiers-1.0.jar"
 "https://www.curseforge.com/api/v1/mods/385792/files/3269639/download" "RevelationPlusPlus\minecraft\mods\mackrel_automotive_industries_TRANSITIONAL_BETA_0.3.jar"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/options.txt" "RevelationPlusPlus\minecraft\options.txt"
 "https://www.curseforge.com/api/v1/mods/387208/files/4468747/download" "RevelationPlusPlus\minecraft\mods\MTS_Kadwin_JP_Vehicles_Pack_4.0.jar"
 "https://www.curseforge.com/api/v1/mods/400399/files/3401706/download" "RevelationPlusPlus\minecraft\mods\AdvSolarPatch-1.2.1.jar"
 "https://www.curseforge.com/api/v1/mods/402630/files/4397346/download" "RevelationPlusPlus\minecraft\mods\AdvMachinesPatch-1.1.jar"
