@@ -78,12 +78,14 @@ FOR /F "tokens=1,2" %%x IN (modpack_files.txt) DO (
 
 CD..\..\icons
 powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/4387a02d-7f5a-465a-bf2b-da4df1ae86d0.png -Outfile icon.png"
-CD..\instances
+CD..\instances\RevelationPlusPlus
 
 ECHO [!date! - !time!] Aufräumen...
 
 DEL modpack_files.txt
 DEL version.txt
+
+CD..
 
 COLOR 0A
 
