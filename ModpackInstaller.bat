@@ -22,6 +22,10 @@ ECHO ^| ##     ## ########    ###    ######## ######## ##     ##    ##    ####  
 ECHO ^+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------^+
 ECHO.
 
+md "RevelationPlusPlus"
+
+CD RevelationPlusPlus
+
 SETLOCAL enabledelayedexpansion
 powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/version.txt -Outfile version.txt"
 powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/modpack_files.txt -TimeoutSec 0 -Outfile modpack_files.txt"
@@ -38,10 +42,6 @@ COLOR 06
 
 ECHO [!date! - !time!] Beginnen mit Installation...
 ECHO [!date! - !time!] Verzeichnisse werden erstellt...
-
-md "RevelationPlusPlus"
-
-CD RevelationPlusPlus
 
 md "libraries"
 md "minecraft\config"
@@ -70,7 +70,7 @@ ECHO [!date! - !time!] Dateien werden angefordert und heruntergeladen...
 
 SET /a File = 1
 
-FOR /F "tokens=1,2" %%x IN (CD..\modpack_files.txt) DO (
+FOR /F "tokens=1,2" %%x IN (modpack_files.txt) DO (
 	ECHO [!date! - !time!] [!File! von %Lines%] %%y wird von %%x heruntergeladen.
 	powershell -Command "Invoke-WebRequest -Uri %%x -Outfile %%y -TimeoutSec 0"
 	SET /A File += 1
