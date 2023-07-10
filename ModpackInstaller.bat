@@ -70,7 +70,7 @@ ECHO [!date! - !time!] Dateien werden angefordert und heruntergeladen...
 
 SET /a File = 1
 
-FOR /F "tokens=1,2" %%x IN (modpack_files.txt) DO (
+FOR /F "tokens=1,2" %%x IN (CD..\modpack_files.txt) DO (
 	ECHO [!date! - !time!] [!File! von %Lines%] %%y wird von %%x heruntergeladen.
 	powershell -Command "Invoke-WebRequest -Uri %%x -Outfile %%y -TimeoutSec 0"
 	SET /A File += 1
