@@ -33,6 +33,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/openblocks.cfg" "minecraft\config\openblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/worldprimer.cfg" "minecraft\config\worldprimer.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderio.cfg" "minecraft\config\enderio\enderio.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/advanced_solar_panels.cfg" "minecraft\config\advanced_solar_panels.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderioconduits.cfg" "minecraft\config\enderio\enderioconduits.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderiomachines.cfg" "minecraft\config\enderio\enderiomachines.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderiopowertools.cfg" "minecraft\config\enderio\enderiopowertools.cfg"
