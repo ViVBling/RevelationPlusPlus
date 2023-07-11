@@ -22,12 +22,16 @@ ECHO ^| ##     ## ########    ###    ######## ######## ##     ##    ##    ####  
 ECHO ^+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------^+
 ECHO.
 
+md "RevelationPlusPlus"
+
+CD RevelationPlusPlus
+
 SETLOCAL enabledelayedexpansion
-powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/version.txt -Outfile version.txt"
-powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/modpack_files.txt -TimeoutSec 0 -Outfile modpack_files.txt"
+POWERSHELL -Command "Invoke-WebRequest https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/version.txt -Outfile version.txt"
+POWERSHELL -Command "Invoke-WebRequest https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/modpack_files.txt -TimeoutSec 0 -Outfile modpack_files.txt"
 
 ECHO|SET /p=Folgende Modpack-Version wurde gefunden und wird installiert: 
-type version.txt
+TYPE version.txt
 FOR /F %%i IN ('TYPE "modpack_files.txt" ^| FIND /C /V ""') DO SET Lines=%%i
 ECHO Anzahl der zu herunterladenden Dateien: %Lines%
 ECHO.
@@ -39,20 +43,20 @@ COLOR 06
 ECHO [!date! - !time!] Beginnen mit Installation...
 ECHO [!date! - !time!] Verzeichnisse werden erstellt...
 
-md "RevelationPlusPlus"
-md "RevelationPlusPlus\libraries"
-md "RevelationPlusPlus\minecraft\config"
-md "RevelationPlusPlus\minecraft\config\alarms\assets\energycontrol\sounds"
-md "RevelationPlusPlus\minecraft\config\immersiverailroading"
-md "RevelationPlusPlus\minecraft\config\buildcraft"
-md "RevelationPlusPlus\minecraft\config\brandon3055"
-md "RevelationPlusPlus\minecraft\config\aroma1997"
-md "RevelationPlusPlus\minecraft\mods"
-md "RevelationPlusPlus\minecraft\marytts"
-md "RevelationPlusPlus\minecraft\resourcepacks"
-md "RevelationPlusPlus\minecraft\scripts"
-md "RevelationPlusPlus\patches"
-md "RevelationPlusPlus\jarmods"
+md "libraries"
+md "minecraft\config"
+md "minecraft\config\alarms\assets\energycontrol\sounds"
+md "minecraft\config\jei"
+md "minecraft\config\immersiverailroading"
+md "minecraft\config\buildcraft"
+md "minecraft\config\brandon3055"
+md "minecraft\config\aroma1997"
+md "minecraft\mods"
+md "minecraft\marytts"
+md "minecraft\resourcepacks"
+md "minecraft\scripts"
+md "patches"
+md "jarmods"
 
 ECHO [!date! - !time!] Dateien werden angefordert und heruntergeladen...
 
@@ -69,6 +73,8 @@ ECHO [!date! - !time!] Aufräumen...
 DEL modpack_files.txt
 DEL version.txt
 
+CD..
+
 COLOR 0A
 
 ECHO [!date! - !time!] Installation abgeschlossen!
@@ -79,7 +85,7 @@ IF errorlevel 7 (
 )
 ELSE IF errorlevel 6 (
 	CD..
-	START MultiMC.exe -l "RevelationPlusPlus"
+	START "" MultiMC.exe -l "RevelationPlusPlus"
 	EXIT /B
 )
 
