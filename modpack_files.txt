@@ -15,6 +15,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "minecraft\config\cofh\world\config.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/quark.cfg" "minecraft\config\quark.cfg"
 "https://mediafilez.forgecdn.net/files/2576/320/xujmod-2.0.8.jar" "minecraft\mods\xujmod-2.0.8.jar"
 "https://mediafilez.forgecdn.net/files/2643/67/V10verlap-5.0.2.jar" "minecraft\mods\V10verlap-5.0.2.jar"
 "https://mod-buildcraft.com/releases/BuildCraft/7.99.24.8/buildcraft-all-7.99.24.8.jar" "minecraft\mods\buildcraft-all-7.99.24.8.jar"
