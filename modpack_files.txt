@@ -4,6 +4,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/mekanism.cfg" "RevelationPlusPlus\minecraft\config\mekanism.cfg
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/openblocks.cfg" "RevelationPlusPlus\minecraft\config\openblocks.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/config/V10verlap.cfg" "RevelationPlusPlus\minecraft\config\V10verlap.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/sophisticatedwolves.cfg" "RevelationPlusPlus\minecraft\config\sophisticatedwolves.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/jarmods/f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar" "RevelationPlusPlus\jarmods\f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/main/servers.dat" "RevelationPlusPlus\minecraft\servers.dat"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/cocricotMOD%20for%201.12.2%20v1.10.3.jar" "RevelationPlusPlus\minecraft\mods\cocricotMOD_1.12.2_v1.10.3.jar"
@@ -18,6 +19,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "RevelationPlusPlus\minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "RevelationPlusPlus\minecraft\config\cofh\world\config.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/squeedometer.cfg" "RevelationPlusPlus\minecraft\config\squeedometer.cfg"
 "https://mediafilez.forgecdn.net/files/2576/320/xujmod-2.0.8.jar" "RevelationPlusPlus\minecraft\mods\xujmod-2.0.8.jar"
 "https://mediafilez.forgecdn.net/files/2643/67/V10verlap-5.0.2.jar" "RevelationPlusPlus\minecraft\mods\V10verlap-5.0.2.jar"
 "https://mod-buildcraft.com/releases/BuildCraft/7.99.24.8/buildcraft-all-7.99.24.8.jar" "RevelationPlusPlus\minecraft\mods\buildcraft-all-7.99.24.8.jar"
