@@ -180,13 +180,5 @@ var fullTome = <akashictome:tome> .withTag(
 //add the full book to JEI as it's own entry
 mods.jei.JEI.addItem(fullTome);
 
-//1 dirt = 1 tome
-recipes.addShapeless(fullTome, [<minecraft:dirt>]);
-
-// Inventory Starter
-mods.initialinventory.InvHandler.addStartingItem(fullTome);
-
 // Book Tooltip
 	fullTome.addTooltip(format.aqua("The Tome is preloaded with all basic mod manuals and guides!"));
-	mods.jei.JEI.addDescription(fullTome, "Yo dawg, we heard you like books...",
-											  "All you need to do is put 1 dirt in a crafting table et voila, a brand new book if you lose this one!");
