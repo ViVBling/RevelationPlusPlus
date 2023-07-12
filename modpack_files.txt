@@ -30,6 +30,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/InvTweaks.cfg" "minecraft\config\InvTweaks\InvTweaks.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "minecraft\config\cofh\world\config.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/quark.cfg" "minecraft\config\quark.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/tconstruct.cfg" "minecraft\config\tconstruct.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/theoneprobe.cfg" "minecraft\config\theoneprobe.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/squeedometer.cfg" "minecraft\config\squeedometer.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/Guide-API/Guide-API.cfg" "minecraft\config\Guide-API\Guide-API.cfg"
