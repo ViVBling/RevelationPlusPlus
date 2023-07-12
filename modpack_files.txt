@@ -27,6 +27,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/forestry/common.cfg" "minecraft\config\forestry\common.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/InvTweaks.cfg" "minecraft\config\InvTweaks\InvTweaks.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "minecraft\config\cofh\world\config.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/quark.cfg" "minecraft\config\quark.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/theoneprobe.cfg" "minecraft\config\theoneprobe.cfg"
