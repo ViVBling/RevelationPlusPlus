@@ -66,6 +66,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/01_unification.zs" "minecraft\scripts\01_unification.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/02_akashic_tome.zs" "minecraft\scripts\02_akashic_tome.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/03_tooltip.zs" "minecraft\scripts\03_tooltip.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_prc.zs" "minecraft\scripts\mekanism_prc.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/cocricot_recipes_1.zs" "minecraft\scripts\cocricot_recipes_1.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/cocricot_recipes_2.zs" "minecraft\scripts\cocricot_recipes_2.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/cocricot_recipes_3.zs" "minecraft\scripts\cocricot_recipes_3.zs"
