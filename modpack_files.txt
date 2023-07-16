@@ -52,6 +52,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/jei/jei.cfg" "minecraft\config\jei\jei.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/aroma1997/aroma1997dimension.cfg" "minecraft\config\aroma1997\aroma1997dimension.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/cyclicmagic.cfg" "minecraft\config\cyclicmagic.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/aether_legacy.cfg" "minecraft\config\aether_legacy.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/thebetweenlands/config.cfg" "minecraft\config\thebetweenlands\config.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ic2.ini" "minecraft\config\ic2.ini"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiverailroading.cfg" "minecraft\config\immersiverailroading.cfg"
