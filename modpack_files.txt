@@ -102,6 +102,8 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_magma_crucible.zs" "minecraft\scripts\thermal_expansion_magma_crucible.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_magmatic_dynamo.zs" "minecraft\scripts\thermal_expansion_magmatic_dynamo.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_pulverizer.zs" "minecraft\scripts\thermal_expansion_pulverizer.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_centrifugal_separator_recipes.zs" "minecraft\scripts\thermal_expansion_centrifugal_separator.zs"
+"https://www.curseforge.com/api/v1/mods/333029/files/2763046/download" "minecraft\mods\tektopia-1.1.0.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/vanilla_furnace.zs" "minecraft\scripts\vanilla_furnace.zs"
 "https://static.wixstatic.com/media/f0a694_15fb36b5c613a275825fb2d8176a03cc.png" "minecraft\icon.png"
 "https://teamopenindustry.cc/maven/cam72cam/immersiverailroading/ImmersiveRailroading/1.12.2-forge-1.9.1-32d9009/ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar" "minecraft\mods\ImmersiveRailroading-1.12.2-forge-1.9.1-32d9009.jar"
