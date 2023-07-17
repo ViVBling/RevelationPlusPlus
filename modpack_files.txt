@@ -39,6 +39,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/valkyrielib/main.cfg" "minecraft\config\valkyrielib\main.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/opencomputers/settings.conf" "minecraft\config\opencomputers\settings.conf"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/astralsorcery.cfg" "minecraft\config\astralsorcery.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/flatcoloredblocks.cfg" "minecraft\config\flatcoloredblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/conarm.cfg" "minecraft\config\conarm.cfg"
 "https://mediafilez.forgecdn.net/files/2576/320/xujmod-2.0.8.jar" "minecraft\mods\xujmod-2.0.8.jar"
 "https://mediafilez.forgecdn.net/files/2643/67/V10verlap-5.0.2.jar" "minecraft\mods\V10verlap-5.0.2.jar"
