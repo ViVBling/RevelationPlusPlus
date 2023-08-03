@@ -12,6 +12,7 @@
 "https://www.curseforge.com/api/v1/mods/419286/files/4459218/download" "minecraft\mods\!mixinbooter-7.1.jar"
 "https://www.curseforge.com/api/v1/mods/358968/files/3678730/download" "minecraft\mods\Interstellar-Exoplanets-1.12.2-0.1.3.0.jar"
 "https://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar" "minecraft\mods\Computronics-1.12.2-1.6.6.jar"
+"https://www.curseforge.com/api/v1/mods/284477/files/2523685/download" "minecraft\mods\nbtperipheral-1.1.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/CustomMainMenu/mainmenu.json" "minecraft\config\CustomMainMenu\mainmenu.json"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/jarmods/f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar" "jarmods\f5b1b23d-2304-4bf0-8b6b-124ecec26103.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/main/servers.dat" "minecraft\servers.dat"
