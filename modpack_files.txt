@@ -5,7 +5,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/GalaxySpace/core.conf" "minecraft\config\GalaxySpace\core.conf"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/Exoplanets/Core.cfg" "minecraft\config\Exoplanets\Core.cfg"
 "https://www.curseforge.com/api/v1/mods/261990/files/4429472/download" "minecraft\mods\More-Planets-1.12.2-2.3.2-GC4.0.5.jar"
-"https://legacy.curseforge.com/minecraft/mc-mods/tiffitlib/download/2631741/file" "minecraft\mods\tiffitlib-1.0.3.jar"
+"https://www.curseforge.com/api/v1/mods/295414/files/2631741/download" "minecraft\mods\tiffitlib-1.0.3.jar"
 "https://www.curseforge.com/api/v1/mods/303101/files/3873588/download" "minecraft\mods\AsmodeusCore-1.12.2-0.0.31.jar"
 "https://www.curseforge.com/api/v1/mods/238770/files/3873609/download" "minecraft\mods\GalaxySpace-1.12.2-2.0.19.jar"
 "https://www.curseforge.com/api/v1/mods/296019/files/4429451/download" "minecraft\mods\SteveKunGs-Lib-mc1.12.2-v1.3.0.jar"
