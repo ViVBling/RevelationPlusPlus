@@ -87,6 +87,8 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/cocricot_recipes_4.zs" "minecraft\scripts\cocricot_recipes_4.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/enchanted_books_1.zs" "minecraft\scripts\enchanted_books_1.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/enchanted_books_2.zs" "minecraft\scripts\enchanted_books_2.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_sawmill.zs" "minecraft\scripts\thermal_expansion_sawmill.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_precision_sawmill.zs" "minecraft\scripts\mekanism_precision_sawmill.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/icbm_recipes.zs" "minecraft\scripts\icbm_recipes.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/industrialcraft2_canner.zs" "minecraft\scripts\industrialcraft2_canner.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/industrialcraft2_liquid_heat_exchanger.zs" "minecraft\scripts\industrialcraft2_liquid_heat_exchanger.zs"
