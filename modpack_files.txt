@@ -81,6 +81,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/customjar-1.jar" "libraries\customjar-1.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/instance.cfg" "instance.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/quarryplus/quarryplus.cfg" "minecraft\config\quarryplus\quarryplus.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ToughExpansion.cfg" "minecraft\config\ToughExpansion.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/mmc-pack.json" "mmc-pack.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/options.txt" "minecraft\options.txt"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/projectE/custom_emc.json" "minecraft\config\projectE\custom_emc.json"
