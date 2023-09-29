@@ -109,8 +109,19 @@ recipes.addShapeless(<minecraft:chest>,
 	#Items removed due to bugs
 recipes.remove(<actuallyadditions:item_bag>);
 <actuallyadditions:item_bag>.addTooltip(format.darkRed("Disabled due to bug!"));
+
 recipes.remove(<extrautils2:bagofholding>);
 <extrautils2:bagofholding>.addTooltip(format.darkRed("Disabled due to bug!"));
+
+recipes.remove(<aether:skyroot_shovel>);
+<aether:skyroot_shovel>.addTooltip(format.darkRed("Disabled due to bug! Do not buy from Edison!"));
+
+recipes.remove(<aether:skyroot_pickaxe>);
+<aether:skyroot_pickaxe>.addTooltip(format.darkRed("Disabled due to bug! Do not buy from Edison!"));
+
+recipes.remove(<aether:skyroot_axe>);
+<aether:skyroot_axe>.addTooltip(format.darkRed("Disabled due to bug! Do not buy from Edison!"));
+
 
 	#Changed Iron Lattice recipe to fix conflict with iron gears
 recipes.remove(<rustic:iron_lattice>);
