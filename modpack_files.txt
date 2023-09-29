@@ -57,6 +57,7 @@
 "https://www.curseforge.com/api/v1/mods/309136/files/2666556/download" "minecraft\mods\multimob-1.0.5.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/07788372bc4ee6e2e80835bad71cdf81d3b5a039/sounds.json" "minecraft\config\alarms\assets\energycontrol\sounds.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.fullmap.config" "minecraft\journeymap\config\5.7\journeymap.fullmap.config"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/itemblacklist.cfg" "minecraft\config\itemblacklist.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.minimap.config" "minecraft\journeymap\config\5.7\journeymap.minimap.config"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.core.config" "minecraft\journeymap\config\5.7\journeymap.core.config"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.minimap2.config" "minecraft\journeymap\config\5.7\journeymap.minimap2.config"
