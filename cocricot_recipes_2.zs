@@ -1,5 +1,7 @@
 //Cocricot Mod Recipes 2
 
+recipes.addShaped(<cocricotmod:stone_color_black_slab> * 6, [[null, null, null],[null, null, null], [<cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>]]);
+recipes.addShaped(<cocricotmod:stone_color_black_plate> * 8, [[null, null, null],[null, null, null], [<cocricotmod:stone_color_black_slab>, <cocricotmod:stone_color_black_slab>, <cocricotmod:stone_color_black_slab>]]);
 recipes.addShaped(<cocricotmod:stone_color_black_stairs> * 8, [[<cocricotmod:stone_color_black>, null, null],[<cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>, null], [<cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>]]);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:stone_color_black_arch>, <architecturecraft:shape>.withTag({Shape: 62, BaseName: "cocricotmod:stone_color_black", BaseData: 0}), 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:stone_color_black_arch_single>, <architecturecraft:shape>.withTag({Shape: 61, BaseName: "cocricotmod:stone_color_black", BaseData: 0}), 1000);
@@ -883,10 +885,7 @@ mods.chisel.Carving.addVariation("stainlessSteel", <cocricotmod:stainless>);
 mods.chisel.Carving.addVariation("stainlessSteel", <cocricotmod:stainless_american>);
 mods.chisel.Carving.addVariation("concrete_white", <cocricotmod:back_white>);
 mods.chisel.Carving.addVariation("concrete_green", <cocricotmod:back_green>);
-mods.mekanism.GasConversion.register(<cocricotmod:transparent>, <gas:oxygen> * 1000);
-mods.mekanism.chemical.crystallizer.addRecipe(<gas:oxygen> * 1000, <cocricotmod:transparent>);
 mods.thermalexpansion.Transposer.addFillRecipe(<cocricotmod:transparent> * 2, <cocricotmod:transparent>, <liquid:ic2air> * 1000, 400);
-mods.mekanism.chemical.oxidizer.addRecipe(<cocricotmod:transparent>, <gas:oxygen> * 1000);
 mods.chisel.Carving.addVariation("concrete_brown", <cocricotmod:roof_fishscale_brown>);
 recipes.addShaped(<cocricotmod:roof_fishscale_brown_vslab> * 6, [[<cocricotmod:roof_fishscale_brown>, null, null],[<cocricotmod:roof_fishscale_brown>, null, null], [<cocricotmod:roof_fishscale_brown>, null, null]]);
 recipes.addShaped(<cocricotmod:roof_fishscale_brown_slab> * 6, [[null, null, null],[null, null, null], [<cocricotmod:roof_fishscale_brown>, <cocricotmod:roof_fishscale_brown>, <cocricotmod:roof_fishscale_brown>]]);
