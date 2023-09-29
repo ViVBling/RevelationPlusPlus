@@ -824,6 +824,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <thebetw
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <thebetweenlands:spirit_fruit>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <twilightforest:experiment_115>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <twilightforest:maze_wafer>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <primitivemobs:dodo>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <actuallyadditions:item_food:19>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <aether:blueberry_lollipop>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <aether:enchanted_wyndberry>);
@@ -1250,6 +1251,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <thebetw
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <thebetweenlands:puffshroom_tendril_smoked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <twilightforest:cooked_venison>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <twilightforest:meef_stroganoff>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <primitivemobs:cooked_dodo>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <actuallyadditions:item_food:11>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <aether:burrukai_ribs>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <harvestcraft:bangersandmashitem>);
