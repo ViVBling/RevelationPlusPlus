@@ -1,5 +1,9 @@
 //Cocricot Mod Recipes 1
 
+import crafttweaker.item.IItemStack;
+
+val axeArray = [<minecraft:wooden_axe>, <minecraft:stone_axe>, <minecraft:iron_axe>, <minecraft:golden_axe>, <minecraft:diamond_axe>] as IItemStack[];
+
 mods.tconstruct.Drying.addRecipe(<cocricotmod:leaves_dry>, <minecraft:leaves>, 6000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:leaves_brown>, <natura:overworld_leaves:3>, 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:leaves_red>, <natura:overworld_leaves>, 1000);
@@ -153,12 +157,12 @@ recipes.addShaped(<cocricotmod:log_all_acacia>, [[null, null, null],[null, <quar
 recipes.addShaped(<cocricotmod:branch_darkoak> * 12, [[null, <cocricotmod:trunk_darkoak>, null],[null, <cocricotmod:trunk_darkoak>, null], [null, <cocricotmod:trunk_darkoak>, null]]);
 recipes.addShaped(<cocricotmod:trunk_darkoak> * 12, [[null, <cocricotmod:log_all_darkoak>, null],[null, <cocricotmod:log_all_darkoak>, null], [null, <cocricotmod:log_all_darkoak>, null]]);
 recipes.addShaped(<cocricotmod:log_all_darkoak>, [[null, null, null],[null, <quark:bark:5>, null], [null, null, null]]);
-recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, <cocricotmod:axe>.reuse(), null], [null, <cocricotmod:branch_oak>, null]]);
-recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, <cocricotmod:axe>.reuse(), null], [null, <cocricotmod:branch_birch>, null]]);
-recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, <cocricotmod:axe>.reuse(), null], [null, <cocricotmod:branch_jungle>, null]]);
-recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, <cocricotmod:axe>.reuse(), null], [null, <cocricotmod:branch_acacia>, null]]);
-recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, <cocricotmod:axe>.reuse(), null], [null, <cocricotmod:branch_darkoak>, null]]);
-recipes.addShaped(<cocricotmod:firewood_block>, [[<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>],[<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>], [<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, axe, null], [null, <cocricotmod:branch_oak>, null]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, axe, null], [null, <cocricotmod:branch_birch>, null]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, axe, null], [null, <cocricotmod:branch_jungle>, null]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, axe, null], [null, <cocricotmod:branch_acacia>, null]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood>, [[null, null, null],[null, axe, null], [null, <cocricotmod:branch_darkoak>, null]]);
+for axe in axeArray recipes.addShaped(<cocricotmod:firewood_block>, [[<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>],[<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>], [<cocricotmod:firewood>, <cocricotmod:firewood>, <cocricotmod:firewood>]]);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:axe>, <minecraft:iron_axe>, 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:pumpkin_small>, <props:props:32>, 1000);
 mods.actuallyadditions.AtomicReconstructor.addRecipe(<cocricotmod:pathway_wood_white>, <microblockcbe:microblock:1>.withTag({mat: "minecraft:planks[variant=birch]"}), 1000);
@@ -728,5 +732,3 @@ recipes.addShaped(<cocricotmod:stone_color_gray_stick> * 12, [[null, <cocricotmo
 mods.chisel.Carving.addVariation("concrete_black", <cocricotmod:stone_color_black_whiteframe>);
 mods.chisel.Carving.addVariation("concrete_black", <cocricotmod:stone_color_black>);
 recipes.addShaped(<cocricotmod:stone_color_black_vslab> * 6, [[<cocricotmod:stone_color_black>, null, null],[<cocricotmod:stone_color_black>, null, null], [<cocricotmod:stone_color_black>, null, null]]);
-recipes.addShaped(<cocricotmod:stone_color_black_slab> * 6, [[null, null, null],[null, null, null], [<cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>, <cocricotmod:stone_color_black>]]);
-recipes.addShaped(<cocricotmod:stone_color_black_plate> * 8, [[null, null, null],[null, null, null], [<cocricotmod:stone_color_black_slab>, <cocricotmod:stone_color_black_slab>, <cocricotmod:stone_color_black_slab>]]);
