@@ -1,0 +1,137 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 12.5
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hot_spring_water",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "immersiveengineering:stone_device",
+      "properties": {}
+    },
+    "temperature": 20.0
+  },
+  {
+    "state": {
+      "block": "railcraft:coke_oven",
+      "properties": {}
+    },
+    "temperature": 20.0
+  },
+  {
+    "state": {
+      "block": "natura:lit_netherrack_furnace",
+      "properties": {}
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "minecraft:torch",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "tconstruct:stone_torch",
+      "properties": {}
+    },
+    "temperature": 2.0
+  },
+  {
+    "state": {
+      "block": "minecraft:redstone_torch",
+      "properties": {}
+    },
+    "temperature": 1.0
+  },
+  {
+    "state": {
+      "block": "minecraft:netherrack",
+      "properties": {}
+    },
+    "temperature": 1.0
+  },
+  {
+    "state": {
+      "block": "minecraft:glowstone",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_cryotheum",
+      "properties": {}
+    },
+    "temperature": -15.0
+  },
+  {
+    "state": {
+      "block": "extraplanets:nitrogen_ice",
+      "properties": {}
+    },
+    "temperature": -15.0
+  },
+  {
+    "state": {
+      "block": "extraplanets:nitrogen",
+      "properties": {}
+    },
+    "temperature": -10.0
+  },
+  {
+    "state": {
+      "block": "minecraft:ice",
+      "properties": {}
+    },
+    "temperature": -5.0
+  },
+  {
+    "state": {
+      "block": "minecraft:snow_layer",
+      "properties": {}
+	},
+    "temperature": -1.0
+  }
+]
