@@ -46,6 +46,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/Guide-API/Guide-API.cfg" "minecraft\config\Guide-API\Guide-API.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/valkyrielib/main.cfg" "minecraft\config\valkyrielib\main.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/opencomputers/settings.conf" "minecraft\config\opencomputers\settings.conf"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/AsmodeusCore/core.conf" "minecraft\config\AsmodeusCore\core.conf"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/astralsorcery.cfg" "minecraft\config\astralsorcery.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/flatcoloredblocks.cfg" "minecraft\config\flatcoloredblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/conarm.cfg" "minecraft\config\conarm.cfg"
