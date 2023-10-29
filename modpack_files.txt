@@ -35,6 +35,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/sounds/alarm-nuclear.ogg" "minecraft\config\alarms\assets\energycontrol\sounds\alarm-nuclear.ogg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/sounds/alarm-zwangsbremsung.ogg" "minecraft\config\alarms\assets\energycontrol\sounds\alarm-zwangsbremsung.ogg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "minecraft\config\cofh\thermalexpansion\common.cfg"
+https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/spiceoflife.cfg" "minecraft\config\spiceoflife.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/forestry/common.cfg" "minecraft\config\forestry\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/InvTweaks.cfg" "minecraft\config\InvTweaks\InvTweaks.cfg"
