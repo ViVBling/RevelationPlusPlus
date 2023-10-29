@@ -16,6 +16,7 @@
 "https://www.curseforge.com/api/v1/mods/291874/files/2799213/download" "minecraft\mods\SereneSeasons-1.12.2-1.2.18-universal.jar"
 "https://www.curseforge.com/api/v1/mods/262806/files/2679943/download" "minecraft\mods\VE-FluidHandling-1.12.2-0.11.0b17.jar"
 "https://www.curseforge.com/api/v1/mods/419286/files/4459218/download" "minecraft\mods\!mixinbooter-7.1.jar"
+"https://github.com/ViVBling/RevelationPlusPlus/raw/mods/Ril%20301.jar" "minecraft\mods\Ril301.jar"
 "https://www.curseforge.com/api/v1/mods/358968/files/3678730/download" "minecraft\mods\Interstellar-Exoplanets-1.12.2-0.1.3.0.jar"
 "https://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar" "minecraft\mods\Computronics-1.12.2-1.6.6.jar"
 "https://www.curseforge.com/api/v1/mods/284477/files/2523685/download" "minecraft\mods\nbtperipheral-1.1.jar"
