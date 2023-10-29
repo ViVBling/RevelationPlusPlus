@@ -115,7 +115,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/mekanism_crusher.zs" "minecraft\scripts\mekanism_crusher.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/merchant_trades.zs" "minecraft\scripts\merchant_trades.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/railcraft_coke_oven.zs" "minecraft\scripts\railcraft_coke_oven.zs"
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/recipes.zs" "minecraft\scripts\recipes.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/shaped_recipes.zs" "minecraft\scripts\shaped_recipes.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_compactor.zs" "minecraft\scripts\thermal_expansion_compactor.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/industrial_foregoing_tree_fluid_extractor.zs" "minecraft\scripts\industrial_foregoing_tree_fluid_extractor.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/scripts/thermal_expansion_coolant.zs" "minecraft\scripts\thermal_expansion_coolant.zs"
