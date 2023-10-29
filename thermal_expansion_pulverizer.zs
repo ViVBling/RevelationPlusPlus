@@ -1,5 +1,7 @@
 //Thermal Expansion Pulverizer Recipes
 
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:string> * 8, <minecraft:skull:3>.withTag({SkullOwner: {Id: "5ad55f34-41b6-4bd2-9c32-18983c635936", Properties: {textures: [{Signature: "", Value: ""}]}, Name: "MHF_Spider"}}), 3000, <minecraft:spider_eye>, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:rotten_flesh> * 8, <minecraft:skull:3>.withTag({SkullOwner: {Id: "18a2bb50-334a-4084-9184-2c380251a24b", Properties: {textures: [{Signature: "", Value: ""}]}, Name: "MHF_PigZombie"}}), 3000, <ic2:dust:20>, 100);
 mods.thermalexpansion.Pulverizer.addRecipe(<quark:black_ash>, <tconstruct:materials:17>, 6000, <minecraft:dye:15>, 10);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gunpowder> * 8, <minecraft:skull:4>, 3000, <thermalfoundation:material:771>, 20);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:bone> * 8, <minecraft:skull>, 3000, <minecraft:dye:15>, 20);
@@ -32,3 +34,9 @@ mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:gol
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:coal_grit>, 3000, <extrabees:misc:18>, 100);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:iron_grit>, 3000, <ore:dustTinyIron>.firstItem, 100);
 mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:gravel>, <extraplanets:emerald_grit>, 3000, <ic2:dust:35>, 100);
+for stoneLimestone in <ore:stoneLimestone>.items mods.thermalexpansion.Pulverizer.addRecipe(<furenikusroads:limestone_dust> * 4, stoneLimestone, 1000);
+mods.thermalexpansion.Pulverizer.addRecipe(<furenikusroads:cement_dust>, <furenikusroads:generic_blocks:1>, 990);
+mods.thermalexpansion.Pulverizer.addRecipe(<furenikusroads:cement_dust>, <furenikusroads:generic_blocks:2>, 990);
+mods.thermalexpansion.Pulverizer.addRecipe(<furenikusroads:cement_dust>, <furenikusroads:clinker_mix>, 990);
+for ice in <ore:ice>.items mods.thermalexpansion.Pulverizer.addRecipe(<toughasnails:ice_cube> * 4, ice, 2000);
+mods.thermalexpansion.Pulverizer.addRecipe(<toughasnails:magma_shard>, <minecraft:magma_cream>, 2000);
