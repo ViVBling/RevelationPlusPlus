@@ -126,7 +126,7 @@
 "https://teamopenindustry.cc/maven/cam72cam/universalmodcore/UniversalModCore/1.12.2-forge-1.1.4-f42e392/UniversalModCore-1.12.2-forge-1.1.4-f42e392.jar" "minecraft\mods\UniversalModCore-1.12.2-forge-1.1.4-f42e392.jar"
 "https://www.curseforge.com/api/v1/mods/220318/files/2842510/download" "minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
 "https://www.curseforge.com/api/v1/mods/220495/files/2713186/download" "minecraft\mods\SophisticatedWolves-1.12.2-3.13.8.jar"
-"https://www.curseforge.com/api/v1/mods/220811/files/2571951/download" "SpiceOfLife-mc1.12-1.3.12.jar"
+"https://www.curseforge.com/api/v1/mods/220811/files/2571951/download" "minecraft\mods\SpiceOfLife-mc1.12-1.3.12.jar"
 "https://www.curseforge.com/api/v1/mods/220954/files/3840577/download" "minecraft\mods\mod-4.0.20.11.jar"
 "https://www.curseforge.com/api/v1/mods/221053/files/2991593/download" "minecraft\mods\B3M-1.12.2-17.jar"
 "https://www.curseforge.com/api/v1/mods/221857/files/2904825/download" "minecraft\mods\Pams+HarvestCraft+1.12.2zg.jar"
