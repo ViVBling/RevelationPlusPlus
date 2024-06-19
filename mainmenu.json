@@ -184,7 +184,7 @@
    },
    "labels":{
       "version":{
-         "text":"Pack Version: 23w44",
+         "text":"Pack Version: 24w25",
          "posX":2,
          "posY":-30,
          "fontSize":1,
@@ -235,7 +235,7 @@
             "image" : "",
             "slideshow":
             {
-                "images" : ["web:https://wallpaper.dog/download-wallpaper/17064778_feed-the-beast-wallpapers","web:https://wallpaper.dog/download-wallpaper/17064739_feed-the-beast-wallpapers"],
+                "images" : ["web:https://wallpapercave.com/wp/wp11205121.jpg","web:https://gtwallpaper.org/sites/default/files/wallpaper/203698/feed-the-beast-wallpapers-203698-1178557-8763992.png"],
                 "displayDuration" : 200,
                 "fadeDuration" : 50
             },
