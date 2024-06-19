@@ -413,7 +413,7 @@
 "https://www.curseforge.com/api/v1/mods/358968/files/3678730/download" "minecraft\mods\Interstellar-Exoplanets-1.12.2-0.1.3.0.jar"
 "https://www.curseforge.com/api/v1/mods/363180/files/3783068/download" "minecraft\mods\IV_Farming_v0.9-Beta.jar"
 "https://www.curseforge.com/api/v1/mods/365035/files/2994152/download" "minecraft\mods\IV_Trin_Industrial_Machinery_Pack_1.0.3.jar"
-"https://www.curseforge.com/api/v1/mods/366256/files/4819515/download" "minecraft\mods\matmos-1.12.2-36.jar"
+"https://www.curseforge.com/api/v1/mods/366256/files/5107048/download" "minecraft\mods\matmos-1.12.2-36.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/367160/files/3179855/download" "minecraft\mods\Turbos+Random+Packs-2.0.0+MTS-IV+V19+.jar"
 "https://www.curseforge.com/api/v1/mods/368018/files/4444137/download" "minecraft\mods\DKZ_Industries-AdamRK_Heavy_Industrial-3.2.0-2.2.0_PRERELEASE.jar"
 "https://www.curseforge.com/api/v1/mods/373450/files/3829524/download" "minecraft\mods\EnergyControl-1.12.2-0.3.1.jar"
