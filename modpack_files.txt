@@ -295,7 +295,7 @@
 "https://www.curseforge.com/api/v1/mods/257572/files/2800372/download" "minecraft\mods\WearableBackpacks-1.12.2-3.1.4.jar"
 "https://www.curseforge.com/api/v1/mods/257573/files/3248033/download" "minecraft\mods\Xtones-1.2.2.jar"
 "https://www.curseforge.com/api/v1/mods/257814/files/3626833/download" "minecraft\mods\CreativeCore_v1.10.70_mc1.12.2.jar"
-"https://www.curseforge.com/api/v1/mods/435557/files/4547571/download" "minecraft\mods\LittleFrames_UNOFFICAL_(by_Blake)_v1.0.14_mc1.12.2.jar"
+"https://www.curseforge.com/api/v1/mods/435557/files/4547571/download" "minecraft\mods\LittleFrames_UNOFFICAL_by_Blake_v1.0.14_mc1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/258426/files/2755790/download" "minecraft\mods\ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
 "https://www.curseforge.com/api/v1/mods/258911/files/2866063/download" "minecraft\mods\worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar"
 "https://www.curseforge.com/api/v1/mods/260912/files/2745852/download" "minecraft\mods\xnet-1.12-1.8.2.jar"
