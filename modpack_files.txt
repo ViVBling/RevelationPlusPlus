@@ -476,3 +476,4 @@
 "https://www.curseforge.com/api/v1/mods/79616/files/3347832/download" "minecraft\mods\Decocraft-2.6.3.7_1.12.2.jar"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/spiceoflife.cfg" "minecraft\config\spiceoflife.cfg"
 "https://www.curseforge.com/api/v1/mods/869524/files/4953961/download" "minecraft\mods\watermedia-2.0.25.jar"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/watercontrol.cfg" "minecraft\config\watercontrol.cfg"
