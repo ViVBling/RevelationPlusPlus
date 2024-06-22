@@ -437,7 +437,6 @@
 "https://www.curseforge.com/api/v1/mods/438332/files/3862959/download" "minecraft\mods\supermartijn642configlib-1.1.6-forge-mc1.12.jar"
 "https://www.curseforge.com/api/v1/mods/441560/files/3191584/download" "minecraft\mods\waterskin-1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/442519/files/4172050/download" "minecraft\mods\AmericanSignsSignalsPack0.7.1.jar"
-"https://www.curseforge.com/api/v1/mods/444460/files/3196686/download" "minecraft\mods\MobAllItemsDrops.jar"
 "https://www.curseforge.com/api/v1/mods/446263/files/3582361/download" "minecraft\mods\cactus_decor_pack_v16.jar"
 "https://www.curseforge.com/api/v1/mods/454372/files/4573479/download" "minecraft\mods\supermartijn642corelib-1.1.9b-forge-mc1.12.jar"
 "https://www.curseforge.com/api/v1/mods/465677/files/3262044/download" "minecraft\mods\Warfare44ContentPackForMTS-Version_1.0.0.jar"
