@@ -47,6 +47,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/inspirations.cfg" "minecraft\config\inspirations.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/itemblacklist.cfg" "minecraft\config\itemblacklist.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/moofluids.cfg" "minecraft\config\moofluids.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/mtsconfig.json" "minecraft\config\mtsconfig.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/natura.cfg" "minecraft\config\natura.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/openblocks.cfg" "minecraft\config\openblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/projectex.cfg" "minecraft\config\projectex.cfg"
