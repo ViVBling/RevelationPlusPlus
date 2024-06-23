@@ -553,6 +553,7 @@
 "https://www.curseforge.com/api/v1/mods/477550/files/3813781/download" "minecraft\mods\Potato-vehicle-Industries-BETA2.jar"
 "https://www.curseforge.com/api/v1/mods/478214/files/3666803/download" "minecraft\mods\cactus_vehicle_pack_v4.jar"
 "https://www.curseforge.com/api/v1/mods/509908/files/3407318/download" "minecraft\resourcepacks\mat_zen.zip"
+"https://www.curseforge.com/api/v1/mods/510904/files/3411592/download" "minecraft\mods\classicglass-drain-1.0.jar"
 "https://www.curseforge.com/api/v1/mods/513881/files/4513313/download" "minecraft\mods\Craftspeed+1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/525828/files/3454364/download" "minecraft\mods\EquivalentEnergistics-1.12.2-PE_1.4.1-0.8.4.jar"
 "https://www.curseforge.com/api/v1/mods/530000/files/5438801/download" "minecraft\config\immersiverailroading\Tram_pack_v2.4.1.zip"
