@@ -437,6 +437,7 @@
 "https://www.curseforge.com/api/v1/mods/272515/files/2685984/download" "minecraft\mods\BetterAdvancements-1.12.2-0.1.0.77.jar"
 "https://www.curseforge.com/api/v1/mods/273430/files/2459131/download" "minecraft\mods\ActuallyBaubles-1.12-1.1.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/refs/heads/mods/WinterWonderLand-1.2.2.jar" "minecraft\mods\WinterWonderLand-1.2.2.jar"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/winterwonderland.cfg" "minecraft\config\winterwonderland.cfg"
 "https://www.curseforge.com/api/v1/mods/274807/files/3048077/download" "minecraft\mods\Netherending-Ores-1.12.2-1.4.2.jar"
 "https://www.curseforge.com/api/v1/mods/277064/files/3483816/download" "minecraft\mods\mysticallib-1.12.2-1.13.0.jar"
 "https://www.curseforge.com/api/v1/mods/277631/files/4344128/download" "minecraft\mods\architecturecraft-1.12-3.108.jar"
