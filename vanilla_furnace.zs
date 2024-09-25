@@ -7,6 +7,8 @@ furnace.addRecipe(<milifi:omelet>, <ore:egg>, 0.1);
 
 furnace.setFuel(<milifi:item_bedrock_door>, 0);
 
+for treeLeaves in <ore:treeLeaves>.items furnace.setFuel(treeLeaves, 100);
+
 furnace.setFuel(<milifi:blockalphacoal>, 144000);
 furnace.setFuel(<milifi:blockbetacoal>, 1296000);
 furnace.setFuel(<milifi:blockgammacoal>, 11664000);
