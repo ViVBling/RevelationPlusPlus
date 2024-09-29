@@ -37,7 +37,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/GalaxySpace/core.conf" "minecraft\config\GalaxySpace\core.conf"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/GalaxySpace/dimensions.conf" "minecraft\config\GalaxySpace\dimensions.conf"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/Guide-API/Guide-API.cfg" "minecraft\config\Guide-API\Guide-API.cfg"
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/aroma1997/aroma1997dimension.cfg" "minecraft\config\aroma1997\aroma1997dimension.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/aroma1997/aroma1997sdimension.cfg" "minecraft\config\aroma1997\aroma1997sdimension.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/B3M.cfg" "minecraft\config\B3M.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ExtraPlanets.cfg" "minecraft\config\ExtraPlanets.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/InvTweaks.cfg" "minecraft\config\InvTweaks\InvTweaks.cfg"
