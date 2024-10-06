@@ -24,6 +24,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/sounds/alarm-zwangsbremsung.ogg" "minecraft\config\alarms\assets\energycontrol\sounds\alarm-zwangsbremsung.ogg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "minecraft\config\cofh\thermalfoundation\common.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/mekanism.cfg" "minecraft\config\mekanism.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/world/config.cfg" "minecraft\config\cofh\world\config.cfg"
 "https://github.com/makamys/MAtmos/releases/download/v36.0.1/matmos-1.12.2-36.0.1.jar" "minecraft\mods\matmos-1.12.2-36.0.1.jar"
 "https://mediafilez.forgecdn.net/files/2576/320/xujmod-2.0.8.jar" "minecraft\mods\xujmod-2.0.8.jar"
