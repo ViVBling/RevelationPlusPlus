@@ -53,6 +53,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/flatcoloredblocks.cfg" "minecraft\config\flatcoloredblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ftbutilities.cfg" "minecraft\config\thebetweenlands\ftbutilities.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/ic2.ini" "minecraft\config\ic2.ini"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/immersivepetroleum.cfg" "minecraft\config\immersivepetroleum.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/immersiverailroading.cfg" "minecraft\config\immersiverailroading.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/inspirations.cfg" "minecraft\config\inspirations.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/itemblacklist.cfg" "minecraft\config\itemblacklist.cfg"
