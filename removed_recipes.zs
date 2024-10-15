@@ -1,5 +1,6 @@
 //Removed Recipes
 
+recipes.remove(<opencomputers:material:6>);
 recipes.remove(<aether:aether_teleporter>);
 recipes.remove(<chisel:futura>);
 recipes.remove(<cyclicmagic:sprout_seed>);
