@@ -234,6 +234,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <minecra
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <minecraft:rabbit>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <minecraft:salmon>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <minecraft:wheat>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <mocreatures:sugarlump>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <moreplanets:jelly_beans>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <natura:edibles:2>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 1, <ic2:crafting:10> * 1, <natura:edibles:3>);
@@ -478,6 +479,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <harvestcraft:vanillayogurtitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <harvestcraft:venisoncookeditem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <harvestcraft:watermelonjellyitem>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <inspirations:edibles>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:baked_potato>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:cooked_beef>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:cooked_chicken>);
@@ -492,6 +494,10 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecra
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:mushroom_stew>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:poisonous_potato>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <minecraft:spider_eye>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <mocreatures:crabraw>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <mocreatures:duckraw>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <mocreatures:ratraw>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <mocreatures:turtleraw>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <moreplanets:cheese_fish>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <moreplanets:glowing_alien_fish>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <moreplanets:zelius_fish>);
@@ -512,7 +518,6 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <thebetw
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <thebetweenlands:silt_crab_claw>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <thebetweenlands:snail_flesh_raw>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <twilightforest:raw_meef>);
-Canner.addBottleRecipe(<ic2:filled_tin_can> * 2, <ic2:crafting:10> * 2, <inspirations:edibles>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <actuallyadditions:item_food:9>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <actuallyadditions:item_food:10>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <aether:candy_corn>);
@@ -637,6 +642,10 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <harvestcraft:vegetarianlettucewrapitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <harvestcraft:zombiejerkyitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <minecraft:bread>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <mocreatures:omelet>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <mocreatures:ostrichraw>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <mocreatures:turkeyraw>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <mocreatures:venisonraw>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <moreplanets:cheese_milk_curd>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <moreplanets:infected_melon_slice>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 3, <ic2:crafting:10> * 3, <moreplanets:marshmallow>);
@@ -778,6 +787,9 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <minecra
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <minecraft:golden_apple:1>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <minecraft:pumpkin_pie>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <minecraft:rotten_flesh>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <mocreatures:crabcooked>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <mocreatures:mysticpear>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <mocreatures:ratcooked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <moreplanets:alien_berry>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <moreplanets:berry_jelly>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <moreplanets:blue_candy_cane_stick>);
@@ -802,6 +814,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <morepla
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <moreplanets:strawberry_jelly>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <moreplanets:yellow_candy_cane_stick>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <natura:edibles:10>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <primitivemobs:dodo>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <quark:cooked_frog_leg>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <quark:golden_frog_leg>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <rustic:tomato>);
@@ -825,7 +838,6 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <thebetw
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <thebetweenlands:spirit_fruit>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <twilightforest:experiment_115>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <twilightforest:maze_wafer>);
-Canner.addBottleRecipe(<ic2:filled_tin_can> * 4, <ic2:crafting:10> * 4, <primitivemobs:dodo>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <actuallyadditions:item_food:19>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <aether:blueberry_lollipop>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 5, <ic2:crafting:10> * 5, <aether:enchanted_wyndberry>);
@@ -1080,6 +1092,8 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <minecraft:cooked_fish:1>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <minecraft:golden_carrot>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <minecraft:rabbit_stew>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <mocreatures:duckcooked>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <mocreatures:turtlecooked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <moreplanets:cooked_marshmallow>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <moreplanets:giant_blueberry>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 6, <ic2:crafting:10> * 6, <moreplanets:terraberry>);
@@ -1166,6 +1180,8 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <harvestcraft:vindalooitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <harvestcraft:walnutraisinbreaditem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <harvestcraft:yorkshirepuddingitem>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <mocreatures:ostrichcooked>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 7, <ic2:crafting:10> * 7, <mocreatures:turkeycooked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <actuallyadditions:item_coffee>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <aether:yule_log>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <extraplanets:apple_diamond:0>);
@@ -1234,11 +1250,15 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <harvestcraft:teriyakichickenitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <harvestcraft:tiropitaitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <harvestcraft:vanillacupcakeitem>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <inspirations:potato_soup>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <matteroverdrive:emergency_ration>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <mocreatures:turtlesoup>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <mocreatures:venisoncooked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <moreplanets:cooked_cheese_beef>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <moreplanets:cooked_shlime_meat>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <mysticalagriculture:prudentium_apple>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <natura:edibles:1>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <primitivemobs:cooked_dodo>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <quark:cooked_crab_leg>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <sanity:specterbread>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <tconstruct:edible:11>);
@@ -1252,8 +1272,6 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <thebetw
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <thebetweenlands:puffshroom_tendril_smoked>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <twilightforest:cooked_venison>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <twilightforest:meef_stroganoff>);
-Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <primitivemobs:cooked_dodo>);
-Canner.addBottleRecipe(<ic2:filled_tin_can> * 8, <ic2:crafting:10> * 8, <inspirations:potato_soup>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <actuallyadditions:item_food:11>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <aether:burrukai_ribs>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <harvestcraft:bangersandmashitem>);
@@ -1295,6 +1313,7 @@ Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <harvest
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <harvestcraft:zucchinibakeitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <harvestcraft:zucchinifriesitem>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <minecraft:beetroot_soup>);
+Canner.addBottleRecipe(<ic2:filled_tin_can> * 9, <ic2:crafting:10> * 9, <mocreatures:ratburger>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 10, <ic2:crafting:10> * 10, <actuallyadditions:item_food:4>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 10, <ic2:crafting:10> * 10, <cyclicmagic:crafting_food>);
 Canner.addBottleRecipe(<ic2:filled_tin_can> * 10, <ic2:crafting:10> * 10, <cyclicmagic:inventory_food>);
