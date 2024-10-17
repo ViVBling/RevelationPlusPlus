@@ -231,7 +231,7 @@
 "https://www.curseforge.com/api/v1/mods/59751/files/2918418/download" "minecraft\mods\forestry_1.12.2-5.8.2.422.jar"
 "https://www.curseforge.com/api/v1/mods/60089/files/3359843/download" "minecraft\mods\MouseTweaks-2.10.1-mc1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/60092/files/2997915/download" "minecraft\mods\Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar"
-"https://www.curseforge.com/api/v1/mods/60936/files/3397287/download" "minecraft\mods\Furenikus_Roads-1.2.0-dev-b28.jar"
+"https://www.curseforge.com/api/v1/mods/60936/files/5700373/download" "minecraft\mods\Furenikus_Roads-1.2.6.jar"
 "https://www.curseforge.com/api/v1/mods/64578/files/3328811/download" "minecraft\mods\EnderIO-1.12.2-5.3.70.jar"
 "https://www.curseforge.com/api/v1/mods/65764/files/2855061/download" "minecraft\mods\MagicBees-1.12.2-3.2.25.jar"
 "https://www.curseforge.com/api/v1/mods/69118/files/2664449/download" "minecraft\mods\Morpheus-1.12.2-3.5.106.jar"
