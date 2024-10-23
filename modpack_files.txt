@@ -577,6 +577,5 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/Universal%20Tweaks%20-%20Tweaks.cfg" "minecraft\config\Universal Tweaks - Tweaks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/Universal%20Tweaks%20-%20Bugfixes.cfg" "minecraft\config\Universal Tweaks - Bugfixes.cfg"
 "https://www.curseforge.com/api/v1/mods/739808/files/4183001/download" "minecraft\mods\PhosphorCrashFix-1.12.2-1.0.0.jar"
-"https://www.curseforge.com/api/v1/mods/873867/files/5618189/download" "minecraft\mods\!Red-Core-MC-1.8-1.12-0.6-Dev-7.jar"
 "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar" "minecraft\mods\Fluidlogged-API-v2.2.7-mc1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/870276/files/5212709/download" "minecraft\mods\!configanytime-3.0.jar"
