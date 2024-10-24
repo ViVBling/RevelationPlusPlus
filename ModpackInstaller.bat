@@ -97,6 +97,8 @@ CD..\instances\RevelationPlusPlus\minecraft\config
 ECHO [!date! - !time!] Aufräumen...
 
 RENAME "NetherendingOres.cfg" "Netherending Ores.cfg"
+RENAME "UniversalTweaks-Tweaks.cfg" "Universal Tweaks - Tweaks.cfg"
+RENAME "UniversalTweaks-Bugfixes.cfg" "Universal Tweaks - Bugfixes.cfg"
 
 CD..\..
 DEL modpack_files.txt
