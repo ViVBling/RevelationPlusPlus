@@ -99,6 +99,7 @@ ECHO [!date! - !time!] Aufräumen...
 RENAME "NetherendingOres.cfg" "Netherending Ores.cfg"
 RENAME "UniversalTweaks-Tweaks.cfg" "Universal Tweaks - Tweaks.cfg"
 RENAME "UniversalTweaks-Bugfixes.cfg" "Universal Tweaks - Bugfixes.cfg"
+RENAME "UniversalTweaks-General.cfg" "Universal Tweaks - General.cfg"
 
 CD..\..
 DEL modpack_files.txt
