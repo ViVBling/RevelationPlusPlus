@@ -76,6 +76,7 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/enderio/enderiopowertools.cfg" "minecraft\config\enderio\enderiopowertools.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/forestry/common.cfg" "minecraft\config\forestry\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/gulliverreborn/gulliverreborn.cfg" "minecraft\config\gulliverreborn\gulliverreborn.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/MoCreatures/MoCSettings.cfg" "minecraft\config\MoCreatures\MoCSettings.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/jei/jei.cfg" "minecraft\config\jei\jei.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.core.config" "minecraft\journeymap\config\5.7\journeymap.core.config"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/journeymap/journeymap.fullmap.config" "minecraft\journeymap\config\5.7\journeymap.fullmap.config"
