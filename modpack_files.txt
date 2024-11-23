@@ -24,6 +24,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/resourcepacks/HansSoundPack.zip" "minecraft\resourcepacks\HansSoundPack.zip"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/sounds/alarm-nuclear.ogg" "minecraft\config\alarms\assets\energycontrol\sounds\alarm-nuclear.ogg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/sounds/alarm-zwangsbremsung.ogg" "minecraft\config\alarms\assets\energycontrol\sounds\alarm-zwangsbremsung.ogg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/projectE/ProjectE.cfg" "minecraft\config\projectE\ProjectE.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalexpansion/common.cfg" "minecraft\config\cofh\thermalexpansion\common.cfg"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/thermalfoundation/common.cfg" "minecraft\config\cofh\thermalfoundation\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/mekanism.cfg" "minecraft\config\mekanism.cfg"
