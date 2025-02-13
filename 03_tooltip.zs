@@ -33,4 +33,24 @@ mods.jei.JEI.addDescription(<milifi:item_bedrock_door>, "Damn this thing is heav
 <milifi:blockpsicoal>.addShiftTooltip("79,766,443,076,872,500,000,000 Coal", "79 sextillion Coal");
 <milifi:blockomegacoal>.addShiftTooltip("717,897,987,691,853,000,000,000 Coal", "717 sextillion Coal");
 
+<thermalfoundation:coin:64>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.01 (0,01 €)"));
+<thermalfoundation:coin:68>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.02 (0,02 €)"));
+<thermalfoundation:coin:99>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.05 (0,05 €)"));
+<thermalfoundation:coin:65>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.1 (0,10 €)"));
+<thermalfoundation:coin:0>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.2 (0,20 €)"));
+<thermalfoundation:coin:96>.addTooltip(format.yellow("EMC:") ~ format.white(" 0.5 (0,50 €)"));
+<thermalfoundation:coin:101>.addTooltip(format.yellow("EMC:") ~ format.white(" 1 (1 €)"));
+<thermalfoundation:coin:67>.addTooltip(format.yellow("EMC:") ~ format.white(" 2 (2 €)"));
+<thermalfoundation:coin:98>.addTooltip(format.yellow("EMC:") ~ format.white(" 5 (5 €)"));
+<thermalfoundation:coin:66>.addTooltip(format.yellow("EMC:") ~ format.white(" 10 (10 €)"));
+<thermalfoundation:coin:100>.addTooltip(format.yellow("EMC:") ~ format.white(" 20 (20 €)"));
+<thermalfoundation:coin:102>.addTooltip(format.yellow("EMC:") ~ format.white(" 50 (50 €)"));
+<thermalfoundation:coin:69>.addTooltip(format.yellow("EMC:") ~ format.white(" 100 (100 €)"));
+<thermalfoundation:coin:97>.addTooltip(format.yellow("EMC:") ~ format.white(" 200 (200 €)"));
+<thermalfoundation:coin:1>.addTooltip(format.yellow("EMC:") ~ format.white(" 500 (500 €)"));
+<thermalfoundation:coin:103>.addTooltip(format.yellow("EMC:") ~ format.white(" 1,000 (1.000 €)"));
+<thermalfoundation:coin:70>.addTooltip(format.yellow("EMC:") ~ format.white(" 2,000 (2.000 €)"));
+<thermalfoundation:coin:72>.addTooltip(format.yellow("EMC:") ~ format.white(" 5,000 (5.000 €)"));
+<thermalfoundation:coin:71>.addTooltip(format.yellow("EMC:") ~ format.white(" 10,000 (10.000 €)"));
+
 print("Initialized 'tooltip.zs'");
