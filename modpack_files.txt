@@ -1,4 +1,5 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/scripts/quarryplus_workbench.zs" "minecraft\scripts\quarryplus_workbench.zs"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/scripts/thermal_expansion_numismatic_dynamo.zs" "minecraft\scripts\thermal_expansion_numismatic_dynamo.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/scripts/industrial_foregoing_fluid_dictionary.zs" "minecraft\scripts\industrial_foregoing_fluid_dictionary.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/scripts/enderio_sag_mill.zs" "minecraft\scripts\enderio_sag_mill.zs"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/scripts/enderio_alloy_smelter.zs" "minecraft\scripts\enderio_alloy_smelter.zs"
