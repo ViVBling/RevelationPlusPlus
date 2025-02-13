@@ -22,10 +22,15 @@ val definition5 = <liquid:magma_fluid>.definition;
 val magma_fluidT = definition5.temperature;
 definition5.temperature = 1500;
 
+val definition6 = <liquid:ice>.definition;
+val iceT = definition6.temperature;
+definition6.temperature = 253;
+
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:nitrogen_ice_fluid>, <liquid:nitrogen_fluid>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:nitrogen_ice_fluid>, <liquid:liquidnitrogen>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:liquidnitrogen>, <liquid:nitrogen>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:frozen_water_fluid>, <liquid:water>, 1);
+mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:ice>, <liquid:frozen_water_fluid>, 1);
 
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:oil>, <liquid:oil_heat_1>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:oil_heat_1>, <liquid:oil_heat_2>, 1);
