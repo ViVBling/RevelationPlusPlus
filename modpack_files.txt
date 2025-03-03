@@ -6,6 +6,8 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/simplyjetpacks/common.cfg" "minecraft\config\simplyjetpacks\common.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/golems.cfg" "minecraft\config\golems.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/bedrockbreaks.cfg" "minecraft\config\bedrockbreaks.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/enhanced_snowman.cfg" "minecraft\config\enchanced_snowman.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/config/industrialwires.cfg" "minecraft\config\industrialwires.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/treecapitator.cfg" "minecraft\config\treecapitator.cfg"
 "https://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar" "minecraft\mods\Computronics-1.12.2-1.6.6.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/CustomMainMenu/mainmenu.json" "minecraft\config\CustomMainMenu\mainmenu.json"
