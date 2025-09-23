@@ -1,5 +1,11 @@
 # Karlscraft – FAQ
 
+❓ Was ist Karlscraft?  
+💬 Karlscraft ist unser gemeinsames **Minecraft-Roleplay-Projekt**, bei dem wir die Stadt **Karlsruhe im Maßstab 1:1** nachbauen. Alles läuft auf einem **gemoddeten Server mit über 400 Mods**, die das Spiel realistischer, spannender und abwechslungsreicher machen. Das Ziel ist nicht nur der Nachbau, sondern auch ein richtiges **Rollenspiel-Erlebnis**, bei dem jeder eine Rolle in der Stadtgesellschaft einnimmt.  
+
+❓ Wieso Karlscraft?  
+💬 Weil Karlsruhe unsere Heimatbasis ist. Die Stadt ist abwechslungsreich, bietet viele interessante Gebäude, Wahrzeichen und Straßen – perfekt geeignet, um sie in Minecraft nachzubauen. Außerdem verbindet uns das Projekt und macht es einzigartig: **kein generisches Bau-Server-Projekt**, sondern etwas mit persönlichem Bezug.  
+
 ❓ **Wie komme ich auf den Server?**  
 💬 Starte das Modpack (MultiMC + unsere Batchdatei). Im Hauptmenü findest du den Button **„Offizieller Server“** oder die Adresse im Mehrspielermenü. Klicken, einloggen, Karlsruhe besuchen – fertig.
 
@@ -9,11 +15,17 @@
 ❓ **Brauche ich Mods, um mitspielen zu können?**  
 💬 Ja. Ohne das Modpack geht gar nichts. Mods liefern Mechaniken, Roleplay liefern wir.
 
+❓ Warum spielt ihr nicht ohne Mods?  
+💬 Ohne Mods ist es nach kurzer Zeit langweilig & außerdem hat man so gut wie **keine Möglichkeiten**, irgendwelche Gebäude zu realisieren. Außerdem ist das Vanilla-Minecraft **absolut unrealistisch**. Mojang & Microsoft sind halt eher damit beschäftigt, überall **Regenbogenflaggen** hinzuknallen, statt gescheiten Content zum Spiel hinzuzufügen. Wenn du einmal mit unseren Mods gespielt hast, **willst du nie wieder ohne**.  
+
 ❓ **Was ist das Ziel von Karlscraft?**  
 💬 Wir bauen Karlsruhe in 1:1 nach – Straßen, öffentliche Gebäude, Marktplatz, die Pyramide. Alles realistisch, stimmig und detailgetreu.
 
 ❓ **Wie funktioniert das Roleplay hier?**  
 💬 Du spielst einen Karlsruher. Grundstück kaufen, Gebäude bauen, handeln, mit anderen interagieren. **OOC-Kommunikation ingame ist untersagt.**
+
+❓ Was ist OOC-Kommunikation & warum ist es untersagt?  
+💬 OOC steht für **Out-Of-Character-Kommunikation**. Das bedeutet, dass du im Spiel Sachen schreibst oder sagst, die **nicht zur Rolle deines Charakters passen** – zum Beispiel private Kommentare, Insider oder Metadiskussionen. Das reißt andere aus dem **Rollenspiel-Erlebnis** raus und zerstört die Immersion. Deshalb ist OOC-Kommunikation auf Karlscraft **streng untersagt**. Wenn du etwas Wichtiges außerhalb des Rollenspiels besprechen musst, nutze bitte **Discord** oder kläre es **privat**.
 
 ❓ **Darf ich ohne Grundstück bauen?**  
 💬 Nein. Nur auf erworbenen Grundstücken. ForgeEssentials blockt alles andere (außer Holzabbau wie vereinbart).
