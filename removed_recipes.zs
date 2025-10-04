@@ -77,3 +77,7 @@ recipes.remove(<projecte:item.pe_time_watch>);
 recipes.remove(<translocators:translocator_part>);
 recipes.remove(<translocators:translocator_part:1>);
 recipes.remove(<mocreatures:medallion>);
+recipes.remove(<extratrees:misc:4>);
+recipes.remove(<extratrees:misc:5>);
+recipes.remove(<advanced_solar_panels:crafting:3>);
+recipes.remove(<advanced_solar_panels:crafting:6>);
