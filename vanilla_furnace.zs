@@ -4,6 +4,7 @@ furnace.addRecipe(<minecraft:glass> * 4, <minecraft:sandstone>, 0.4);
 furnace.addRecipe(<minecraft:bedrock>, <extrautils2:decorativebedrock:2>, 50.0);
 furnace.addRecipe(<extrautils2:decorativebedrock:1>, <minecraft:bedrock>, 50.0);
 furnace.addRecipe(<milifi:omelet>, <ore:egg>, 0.1);
+furnace.addRecipe(<extratrees:misc:5>, <extratrees:misc:4>, 0.1);
 
 furnace.setFuel(<milifi:item_bedrock_door>, 0);
 
