@@ -267,6 +267,50 @@
     {
       "item": "icbmclassic:explosives|19",
       "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_body_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_soul_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_mind_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_repair_talisman|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_time_watch|0",
+      "emc": 0
+    },
+    {
+      "item": "ore:gemAmber|0",
+      "emc": 0
+    },
+    {
+      "item": "OD|gemAmber",
+      "emc": 300
+    },
+    {
+      "item": "projecte:relay_mk1|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk2|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk3|0",
+      "emc": 0
+    },
+    {
+      "item": "projectex:relay|0",
+      "emc": 0
     }
   ]
 }
