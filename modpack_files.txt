@@ -577,7 +577,7 @@
 "https://www.curseforge.com/api/v1/mods/510904/files/3411592/download" "minecraft\mods\classicglass-drain-1.0.jar"
 "https://www.curseforge.com/api/v1/mods/513881/files/4513313/download" "minecraft\mods\Craftspeed+1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/525828/files/3454364/download" "minecraft\mods\EquivalentEnergistics-1.12.2-PE_1.4.1-0.8.4.jar"
-"https://www.curseforge.com/api/v1/mods/530000/files/5438801/download" "minecraft\config\immersiverailroading\Tram_pack_v2.4.1.zip"
+"https://www.curseforge.com/api/v1/mods/530000/files/6080747/download" "minecraft\config\immersiverailroading\Tram_pack_v2.5.zip"
 "https://www.curseforge.com/api/v1/mods/533008/files/4301108/download" "minecraft\mods\City_Cars_IV_2.1.0.jar"
 "https://www.curseforge.com/api/v1/mods/544294/files/3622745/download" "minecraft\mods\Blus_Sign_Pack_V1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/583103/files/4556039/download" "minecraft\mods\R.A.G.E_2.0_alpha1_1.12.2.jar"
