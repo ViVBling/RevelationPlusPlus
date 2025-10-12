@@ -311,6 +311,10 @@
     {
       "item": "projectex:relay|0",
       "emc": 0
+    },
+    {
+      "item": "projectex:final_star_shard|0",
+      "emc": 10249647394127872
     }
   ]
 }
