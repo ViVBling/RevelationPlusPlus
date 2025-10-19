@@ -22,6 +22,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/Ril%20301.jar" "minecraft\mods\Ril301.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/ToughAsNails-1.12.2-3.1.0.141-universal.jar" "minecraft\mods\ToughAsNails-1.12.2-3.1.0.141-universal.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/cocricotMOD%20for%201.12.2%20v1.10.3.jar" "minecraft\mods\cocricotMOD_for_1.12.2_v1.10.3.jar"
+"https://mediafilez.forgecdn.net/files/2931/402/Unifine-1.12.2-0.1.0.jar" "minecraft\mods\Unifine-1.12.2-0.1.0.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/milifi-25w7.jar" "minecraft\mods\milifi-25w7.jar"
 "https://www.curseforge.com/api/v1/mods/867351/files/5654788/download" "minecraft\mods\DrZharks-MoCreatures-Extended-12.4.5.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/patches/net.minecraftforge.json" "patches\net.minecraftforge.json"
