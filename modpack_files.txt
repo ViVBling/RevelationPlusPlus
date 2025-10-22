@@ -19,6 +19,7 @@
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/OptiFine_1.12.2_HD_U_G6_pre1_MOD.jar" "minecraft\mods\OptiFine_1.12.2_HD_U_G6_pre1_MOD.jar"
 "https://www.curseforge.com/api/v1/mods/416089/files/6374539/download" "minecraft\mods\voicechat-forge-1.12.2-2.5.29.jar"
 "https://www.curseforge.com/api/v1/mods/440990/files/5866383/download" "minecraft\mods\OpenSignals-1.12.2-3.6.3.jar"
+"https://www.curseforge.com/api/v1/mods/380401/files/3191629/download" "minecraft\mods\WorldEdit-CUI-FE3-1.12.2-3.0.9.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/Ril%20301.jar" "minecraft\mods\Ril301.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/ToughAsNails-1.12.2-3.1.0.141-universal.jar" "minecraft\mods\ToughAsNails-1.12.2-3.1.0.141-universal.jar"
 "https://github.com/ViVBling/RevelationPlusPlus/raw/mods/cocricotMOD%20for%201.12.2%20v1.10.3.jar" "minecraft\mods\cocricotMOD_for_1.12.2_v1.10.3.jar"
