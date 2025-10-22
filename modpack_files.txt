@@ -560,7 +560,7 @@
 "https://www.curseforge.com/api/v1/mods/402630/files/4397346/download" "minecraft\mods\AdvMachinesPatch-1.1.jar"
 "https://www.curseforge.com/api/v1/mods/406056/files/4433025/download" "minecraft\mods\IV-Vanity-1.12.2-2.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/413788/files/3592957/download" "minecraft\mods\Waywardcraft_Pack_V03.jar"
-"https://www.curseforge.com/api/v1/mods/419286/files/6344449/download" "minecraft\mods\mixinbooter-10.6.jar"
+"https://www.curseforge.com/api/v1/mods/419286/files/6344449/download" "minecraft\mods\_mixinbooter-10.6.jar"
 "https://www.curseforge.com/api/v1/mods/420966/files/3611361/download" "minecraft\mods\sausesaigpfdpack_V2.4.jar"
 "https://www.curseforge.com/api/v1/mods/422073/files/4438638/download" "minecraft\mods\IAV_Parts_Pack_1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/425922/files/3190341/download" "minecraft\mods\immersive_Pokers_Garage_1.1.jar"
