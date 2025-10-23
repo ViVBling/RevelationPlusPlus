@@ -81,3 +81,4 @@ recipes.remove(<extratrees:misc:4>);
 recipes.remove(<extratrees:misc:5>);
 recipes.remove(<advanced_solar_panels:crafting:3>);
 recipes.remove(<advanced_solar_panels:crafting:6>);
+recipes.remove(<advanced_solar_panels:crafting:12>);
