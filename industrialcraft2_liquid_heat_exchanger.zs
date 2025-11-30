@@ -26,9 +26,17 @@ val definition6 = <liquid:ice>.definition;
 val iceT = definition6.temperature;
 definition6.temperature = 253;
 
+val definition7 = <liquid:hot_spring_water>.definition;
+val hot_spring_waterT = definition7.temperature;
+definition7.temperature = 370;
+
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:nitrogen_ice_fluid>, <liquid:nitrogen_fluid>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:nitrogen_ice_fluid>, <liquid:liquidnitrogen>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:liquidnitrogen>, <liquid:nitrogen>, 1);
+mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:ic2steam>, <liquid:ic2superheated_steam>, 1);
+mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:hot_spring_water>, <liquid:ic2steam>, 1);
+mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:ic2hot_water>, <liquid:hot_spring_water>, 1);
+mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:water>, <liquid:ic2hot_water>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:frozen_water_fluid>, <liquid:water>, 1);
 mods.ic2.HeatExchanger.addFluidCoolDown(<liquid:ice>, <liquid:frozen_water_fluid>, 1);
 
