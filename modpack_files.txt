@@ -70,9 +70,9 @@
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/config/moofluids.cfg" "minecraft\config\moofluids.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/config/mtsconfig.cfg" "minecraft\config\mtsconfig.json"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/config/natura.cfg" "minecraft\config\natura.cfg"
-
-"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/openblocks.cfg" "minecraft\config\openblocks.cfg"
+"https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/config/openblocks.cfg" "minecraft\config\openblocks.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/projectex.cfg" "minecraft\config\projectex.cfg"
+
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/quark.cfg" "minecraft\config\quark.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/spiceoflife.cfg" "minecraft\config\spiceoflife.cfg"
 "https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/config/squeedometer.cfg" "minecraft\config\squeedometer.cfg"
