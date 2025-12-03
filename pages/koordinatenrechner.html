@@ -1,83 +1,88 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
 <head>
   <meta charset="utf-8" />
-  <title>Karlsruhe → Minecraft Koordinatenrechner</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karte → Minecraft‑Koordinaten (Karlsruher Pyramide als Nullpunkt)</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
   <style>
-    html, body, #map { height: 100%; margin: 0; font-family: sans-serif; }
-    .info { padding: 6px 8px; background: white; background: rgba(255, 255, 255, 0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; }
-    .info h4 { margin: 0 0 5px; }
+    html,body{height:100%;margin:0}
+    #map{width:100vw;height:100vh;cursor:default;}
+    .tooltip-text{border-bottom:1px dotted #000; cursor:help;}
+    .mcY-high{color:red; font-weight:bold;}
   </style>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 <body>
-<div id="map"></div>
-<script>
-const karlsruheLat = 49.0092426;
-const karlsruheLon = 8.4039090;
-const karlsruheY = 64;
-const karlsruheNN = 115;
+  <div id="map"></div>
 
-const map = L.map('map').setView([karlsruheLat, karlsruheLon], 16);
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script>
+    const PYRAMID_LAT = 49.00923;
+    const PYRAMID_LON = 8.403911;
+    const PYRAMID_MINECRAFT_Y = 58; // absolute Minecraft-Höhe am Nullpunkt
 
-const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap',
-  maxZoom: 19
-});
+    const ROT_DEG = -4; // virtuelle Neigung für Berechnung der Koordinaten
+    const ROT_RAD = ROT_DEG * Math.PI / 180;
 
-const topoLayer = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenTopoMap',
-  maxZoom: 17
-});
+    const map = L.map('map', { zoomControl:true }).setView([PYRAMID_LAT, PYRAMID_LON], 18);
+    const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors'}).addTo(map);
+    const topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { maxZoom: 17, attribution: '&copy; OpenTopoMap & OpenStreetMap contributors'});
+    L.control.layers({"OpenStreetMap":osm, "OpenTopoMap":topo}).addTo(map);
 
-const baseLayers = {
-  "OpenStreetMap": osmLayer,
-  "OpenTopoMap": topoLayer
-};
+    const R_MAJOR = 6378137.0;
+    function lonToMercX(lon){ return R_MAJOR * lon * Math.PI/180.0; }
+    function latToMercY(lat){ const latRad = lat * Math.PI/180.0; return R_MAJOR * Math.log(Math.tan(Math.PI/4 + latRad/2)); }
+    const pyramidMerc = { x: lonToMercX(PYRAMID_LON), y: latToMercY(PYRAMID_LAT) };
 
-osmLayer.addTo(map);
-L.control.layers(baseLayers).addTo(map);
-
-const info = L.control();
-info.onAdd = function (map) {
-  this._div = L.DomUtil.create('div', 'info');
-  this.update();
-  return this._div;
-};
-info.update = function (props) {
-  this._div.innerHTML = props || "Klicke auf die Karte";
-};
-info.addTo(map);
-
-function toMinecraftCoords(lat, lon) {
-  const latMeters = (lat - karlsruheLat) * 111320;
-  const lonMeters = (lon - karlsruheLon) * 40075000 * Math.cos(karlsruheLat * Math.PI / 180) / 360;
-  return { x: Math.round(lonMeters), z: Math.round(-latMeters) };
-}
-
-map.on('click', async function (e) {
-  const lat = e.latlng.lat;
-  const lon = e.latlng.lng;
-  const coords = toMinecraftCoords(lat, lon);
-
-  let yValue = "Unbekannt";
-  try {
-    const res = await fetch(`https://api.opentopodata.org/v1/eudem25m?locations=${lat},${lon}`);
-    const data = await res.json();
-    if (data.results && data.results[0].elevation !== null) {
-      const elevation = data.results[0].elevation;
-      yValue = Math.round(elevation - (karlsruheNN - karlsruheY));
+    function rotateMercPoint(x, y, angle){
+      const cos = Math.cos(angle), sin = Math.sin(angle);
+      const dx = x - pyramidMerc.x, dy = y - pyramidMerc.y;
+      const rx = dx * cos - dy * sin;
+      const ry = dx * sin + dy * cos;
+      return { x: rx, y: ry };
     }
-  } catch (err) {
-    yValue = "Fehler bei Höhendaten";
-  }
 
-  info.update(`<h4>Koordinaten</h4>
-    GPS: ${lat.toFixed(6)}, ${lon.toFixed(6)}<br>
-    Minecraft: X: ${coords.x}, Z: ${coords.z}, Y: ${yValue}`);
-});
-</script>
+    async function fetchElevation(lat, lon) {
+      try {
+        const url = `https://api.open-elevation.com/api/v1/lookup?locations=${lat},${lon}`;
+        const resp = await fetch(url);
+        const data = await resp.json();
+        return data.results?.[0]?.elevation ?? 0;
+      } catch(e) { console.error('Elevation-Fehler', e); return 0; }
+    }
+
+    map.on('click', async function(ev){
+      const latlng = ev.latlng;
+      const clickedMerc = { x: lonToMercX(latlng.lng), y: latToMercY(latlng.lat) };
+
+      // virtuelle Drehung: Minus vor ROT_RAD für korrekte Ausrichtung
+      const rotated = rotateMercPoint(clickedMerc.x, clickedMerc.y, -ROT_RAD);
+
+      // Minecraft-Koordinaten: X = Ost-West, Z = Nord-Süd (Süden = positiv)
+      const mcX = rotated.x;
+      const mcZ = -rotated.y;
+      const elevationNN = await fetchElevation(latlng.lat, latlng.lng);
+      const mcY = elevationNN - PYRAMID_MINECRAFT_Y; // Höhe relativ zu Nullpunkt, ganze Zahl
+
+      // Y-Koordinate rot färben, wenn sie außerhalb 0-255 liegt
+      const mcYClass = (mcY < 0 || mcY > 255) ? 'mcY-high' : '';
+
+      if(window._lastMarker) map.removeLayer(window._lastMarker);
+      window._lastMarker = L.marker(latlng).addTo(map);
+
+      const popupHtml = `
+        <div>
+          <b>Ausgewählter Punkt</b><br>
+          Lat: ${latlng.lat.toFixed(6)}, Lng: ${latlng.lng.toFixed(6)}<br>
+          <hr>
+          <b>Gelände-Höhe:</b> ${elevationNN} m<br>
+          <b class='tooltip-text' title='Die Y-Koordinate zeigt die Höhe des Bodens, nicht die Höhe der Gebäude'>Minecraft-Koordinaten</b><br>
+          X: ${Math.round(mcX)}, Y: <span class='${mcYClass}'>${Math.round(mcY)}</span>, Z: ${Math.round(mcZ)}
+        </div>
+      `;
+
+      window._lastMarker.bindPopup(popupHtml).openPopup();
+    });
+  </script>
 </body>
 </html>
