@@ -1,3 +1,2 @@
-resourcePacks:["mat_zen.zip","AudioCraft.zip","HansSoundPack.zip","Bahnschrift.zip","BetterVanilla.zip"]
 lastServer:karlscraft.ddns.net
 lang:de_de
