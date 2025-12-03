@@ -1,0 +1,328 @@
+{
+  "entries": [
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 816
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 769
+    },
+    {
+      "item": "extrautils2:goldenlasso|0",
+      "emc": 956
+    },
+    {
+      "item": "extrautils2:ingredients|10",
+      "emc": 4096
+    },
+    {
+      "item": "extrautils2:endershard|0",
+      "emc": 128
+    },
+    {
+      "item": "enderio:item_alloy_ingot|6",
+      "emc": 0
+    },
+    {
+      "item": "railcraft:rail|1",
+      "emc": 792
+    },
+    {
+      "item": "railcraft:tie|0",
+      "emc": 2060
+    },
+    {
+      "item": "minecraft:mossy_cobblestone|0",
+      "emc": 9
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 320
+    },
+    {
+      "item": "extrautils2:ingredients|9",
+      "emc": 4096
+    },
+    {
+      "item": "ic2:misc_resource|1",
+      "emc": 1048576
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 1048576
+    },
+    {
+      "item": "minecraft:magma|0",
+      "emc": 3200
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 801
+    },
+    {
+      "item": "thermaldynamics:duct_0|4",
+      "emc": 1680
+    },
+    {
+      "item": "thermaldynamics:duct_0|5",
+      "emc": 9169
+    },
+    {
+      "item": "mekanism:reinforcedalloy|0",
+      "emc": 8512
+    },
+    {
+      "item": "mekanism:otherdust|5",
+      "emc": 8208
+    },
+    {
+      "item": "mekanism:atomicalloy|0",
+      "emc": 16720
+    },
+    {
+      "item": "mekanism:ingot|3",
+      "emc": 896
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 8720
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 808
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 288
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 576
+    },
+    {
+      "item": "minecraft:command_block|0",
+      "emc": 29148506219
+    },
+    {
+      "item": "thermaldynamics:duct_32|2",
+      "emc": 424
+    },
+    {
+      "item": "galacticraftcore:basic_item|13",
+      "emc": 2796
+    },
+    {
+      "item": "minecraft:structure_block|0",
+      "emc": 29407133975
+    },
+    {
+      "item": "thermalfoundation:material|355",
+      "emc": 160
+    },
+    {
+      "item": "ic2:crafting|1",
+      "emc": 896
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|5",
+      "emc": 480
+    },
+    {
+      "item": "thermalfoundation:glass|0",
+      "emc": 352
+    },
+    {
+      "item": "thermalfoundation:glass|1",
+      "emc": 416
+    },
+    {
+      "item": "thermalfoundation:glass|2",
+      "emc": 544
+    },
+    {
+      "item": "thermalfoundation:glass|3",
+      "emc": 288
+    },
+    {
+      "item": "thermalfoundation:glass|4",
+      "emc": 352
+    },
+    {
+      "item": "thermalfoundation:glass|5",
+      "emc": 800
+    },
+    {
+      "item": "thermalfoundation:glass|6",
+      "emc": 2336
+    },
+    {
+      "item": "thermalfoundation:glass|7",
+      "emc": 524576
+    },
+    {
+      "item": "thermalfoundation:glass|8",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|0",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|1",
+      "emc": 928
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|2",
+      "emc": 544
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|3",
+      "emc": 368
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|4",
+      "emc": 576
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|6",
+      "emc": 640
+    },
+    {
+      "item": "thermalfoundation:glass_alloy|7",
+      "emc": 1552
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1408
+    },
+    {
+      "item": "redstonearsenal:material|160",
+      "emc": 8320
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 192
+    },
+    {
+      "item": "thermaldynamics:duct_0|2",
+      "emc": 586
+    },
+    {
+      "item": "openblocks:heal|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|4",
+      "emc": 0
+    },
+    {
+      "item": "icbmclassic:explosives|15",
+      "emc": 0
+    },
+    {
+      "item": "icbmclassic:explosives|2",
+      "emc": 25368
+    },
+    {
+      "item": "icbmclassic:explosives|17",
+      "emc": 267072
+    },
+    {
+      "item": "icbmclassic:explosives|19",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_body_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_soul_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_mind_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_repair_talisman|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_time_watch|0",
+      "emc": 0
+    },
+    {
+      "item": "ore:gemAmber|0",
+      "emc": 0
+    },
+    {
+      "item": "OD|gemAmber",
+      "emc": 300
+    },
+    {
+      "item": "projecte:relay_mk1|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk2|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk3|0",
+      "emc": 0
+    },
+    {
+      "item": "projectex:relay|0",
+      "emc": 0
+    },
+    {
+      "item": "projectex:final_star_shard|0",
+      "emc": 10249647394127872
+    },
+    {
+      "item": "translocators:translocator_part|1",
+      "emc": 0
+    },
+    {
+      "item": "translocators:translocator_part|0",
+      "emc": 0
+    }
+  ]
+}
