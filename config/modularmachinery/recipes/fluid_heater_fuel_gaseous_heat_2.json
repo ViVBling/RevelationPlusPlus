@@ -1,0 +1,24 @@
+{
+    "machine": "fluid_heater",
+    "registryName": "fluid_heater_fuel_gaseous_heat_2",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 50
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "fuel_gaseous_heat_1",
+            "amount": 100
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "fuel_gaseous_heat_2",
+            "amount": 100
+        }
+    ]
+}

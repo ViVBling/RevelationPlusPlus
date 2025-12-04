@@ -1,0 +1,24 @@
+{
+    "machine": "fluid_heater",
+    "registryName": "fluid_heater_ic2hot_water",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 50
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 100
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "ic2hot_water",
+            "amount": 100
+        }
+    ]
+}

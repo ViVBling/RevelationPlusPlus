@@ -1,0 +1,24 @@
+{
+    "machine": "fluid_heater",
+    "registryName": "fluid_heater_frozen_water_fluid",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 50
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "ice",
+            "amount": 100
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "frozen_water_fluid",
+            "amount": 100
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "machine": "fluid_heater",
+    "registryName": "fluid_heater_nitrogen_fluid",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 50
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "nitrogen_ice_fluid",
+            "amount": 100
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "nitrogen_fluid",
+            "amount": 100
+        }
+    ]
+}
