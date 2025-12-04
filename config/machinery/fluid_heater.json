@@ -1,0 +1,167 @@
+{
+	"registryname": "fluid_heater",
+    "localizedname": "Fluid Heater",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": "casings_fluid"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "enderio:block_tank@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.coils@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.coils@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": "casings_all"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": "casings_all"
+        }
+    ]}
