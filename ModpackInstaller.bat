@@ -1,135 +1,136 @@
-@echo off
-REM MODE 320, 50
-TITLE Revelation++ Installer
+@echo off 
+setlocal enabledelayedexpansion
 
-COLOR 09
+REM -------------------------------
+REM 1. ZIP herunterladen
+REM -------------------------------
+set ZIPURL=https://codeload.github.com/ViVBling/RevelationPlusPlus/zip/refs/heads/main
+set ZIPNAME=RevelationPlusPlus.zip
 
-ECHO.
-ECHO.
-ECHO.
-ECHO.
-ECHO.
-ECHO.
-ECHO.
-ECHO ^+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------^+
-ECHO ^| ########  ######## ##     ## ######## ##          ###    ######## ####  #######  ##    ##                  #### ##    ##  ######  ########    ###    ##       ##          ###    ######## ####  #######  ##    ## ^|
-ECHO ^| ##     ## ##       ##     ## ##       ##         ## ##      ##     ##  ##     ## ###   ##   ##     ##       ##  ###   ## ##    ##    ##      ## ##   ##       ##         ## ##      ##     ##  ##     ## ###   ## ^|
-ECHO ^| ##     ## ##       ##     ## ##       ##        ##   ##     ##     ##  ##     ## ####  ##   ##     ##       ##  ####  ## ##          ##     ##   ##  ##       ##        ##   ##     ##     ##  ##     ## ####  ## ^|
-ECHO ^| ########  ######   ##     ## ######   ##       ##     ##    ##     ##  ##     ## ## ## ## ###### ######     ##  ## ## ##  ######     ##    ##     ## ##       ##       ##     ##    ##     ##  ##     ## ## ## ## ^|
-ECHO ^| ##   ##   ##        ##   ##  ##       ##       #########    ##     ##  ##     ## ##  ####   ##     ##       ##  ##  ####       ##    ##    ######### ##       ##       #########    ##     ##  ##     ## ##  #### ^|
-ECHO ^| ##    ##  ##         ## ##   ##       ##       ##     ##    ##     ##  ##     ## ##   ###   ##     ##       ##  ##   ### ##    ##    ##    ##     ## ##       ##       ##     ##    ##     ##  ##     ## ##   ### ^|
-ECHO ^| ##     ## ########    ###    ######## ######## ##     ##    ##    ####  #######  ##    ##                  #### ##    ##  ######     ##    ##     ## ######## ######## ##     ##    ##    ####  #######  ##    ## ^|
-ECHO ^+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------^+
-ECHO.
+echo Lade %ZIPNAME% herunter...
+curl -L --progress-bar -o "%ZIPNAME%" "%ZIPURL%"
 
-md "RevelationPlusPlus"
+REM -------------------------------
+REM 2. ZIP entpacken
+REM -------------------------------
+echo Entpacke %ZIPNAME%...
+tar -xf "%ZIPNAME%"
 
-CD RevelationPlusPlus
-
-SETLOCAL enabledelayedexpansion
-powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/version.txt -Outfile version.txt"
-powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/modpack_files.txt -TimeoutSec 0 -Outfile modpack_files.txt"
-
-ECHO|SET /p=Folgende Modpack-Version wurde gefunden und wird installiert: 
-type version.txt
-FOR /F %%i IN ('TYPE "modpack_files.txt" ^| FIND /C /V ""') DO SET Lines=%%i
-ECHO Anzahl der zu herunterladenden Dateien: %Lines%
-ECHO.
-ECHO Hinweis: Der Download kann jederzeit mit "STRG+C" abgebrochen werden, falls Fehler auftreten sollten.
-ECHO.
-
-COLOR 06
-
-ECHO [!date! - !time!] Beginnen mit Installation...
-ECHO [!date! - !time!] Verzeichnisse werden erstellt...
-
-md "libraries"
-md "minecraft\config"
-md "minecraft\config\alarms\assets\energycontrol\sounds"
-md "minecraft\config\immersiverailroading"
-md "minecraft\config\buildcraft"
-md "minecraft\config\brandon3055"
-md "minecraft\config\aroma1997"
-md "minecraft\config\projectE"
-md "minecraft\config\enderio"
-md "minecraft\config\forestry"
-md "minecraft\config\cofh\thermalexpansion"
-md "minecraft\config\cofh\thermalfoundation"
-md "minecraft\config\cofh\world"
-md "minecraft\config\CustomMainMenu"
-md "minecraft\config\Guide-API"
-md "minecraft\config\gulliverreborn"
-md "minecraft\config\rftools"
-md "minecraft\config\InvTweaks"
-md "minecraft\config\jei"
-md "minecraft\config\Galacticraft"
-md "minecraft\config\Exoplanets"
-md "minecraft\config\GalaxySpace"
-md "minecraft\config\valkyrielib"
-md "minecraft\config\opencomputers"
-md "minecraft\config\thebetweenlands"
-md "minecraft\config\toughasnails"
-md "minecraft\config\quarryplus"
-md "minecraft\config\AsmodeusCore"
-md "minecraft\config\simplyjetpacks"
-md "minecraft\config\MoCreatures"
-md "minecraft\mods"
-md "minecraft\marytts"
-md "minecraft\resourcepacks"
-md "minecraft\scripts"
-md "minecraft\journeymap\config\5.7"
-md "patches"
-md "jarmods"
-
-ECHO [!date! - !time!] Dateien werden angefordert und heruntergeladen...
-
-SET /a File = 1
-
-FOR /F "tokens=1,2" %%x IN (modpack_files.txt) DO (
-	ECHO [!date! - !time!] [!File! von %Lines%] %%y wird von %%x heruntergeladen.
-	powershell -Command "Invoke-WebRequest -Uri %%x -Outfile %%y -TimeoutSec 0"
-	SET /A File += 1
+REM -------------------------------
+REM 3. Ordner umbenennen
+REM -------------------------------
+echo Benenne Verzeichnisse...
+if exist "RevelationPlusPlus-main" (
+    echo Benenne Ordner in Revelation++ um...
+    ren "RevelationPlusPlus-main" "Revelation++"
+) else (
+    echo Ordner RevelationPlusPlus-main nicht gefunden!
+    exit /b 1
 )
 
-CD..\..\icons
-powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/main/4387a02d-7f5a-465a-bf2b-da4df1ae86d0.png -Outfile icon.png"
-CD..\instances\RevelationPlusPlus\minecraft\config
-
-ECHO [!date! - !time!] Aufräumen...
-
-RENAME "NetherendingOres.cfg" "Netherending Ores.cfg"
-RENAME "UniversalTweaks-Tweaks.cfg" "Universal Tweaks - Tweaks.cfg"
-RENAME "UniversalTweaks-Bugfixes.cfg" "Universal Tweaks - Bugfixes.cfg"
-RENAME "UniversalTweaks-General.cfg" "Universal Tweaks - General.cfg"
-
-CD..\..
-DEL modpack_files.txt
-DEL version.txt
-
-
-
-CD..
-
-COLOR 0A
-
-ECHO [!date! - !time!] Installation abgeschlossen!
-
-CALL :MsgBox "Soll Revelation++ nun gestartet werden?"  "VBYesNo+VBQuestion" "Installation abgeschlossen!"
-IF errorlevel 7 (
-	DEL ModpackInstaller.bat
-	EXIT /B
+REM -------------------------------
+REM 4. Inhalte aus Unterordner verschieben
+REM -------------------------------
+echo Inhalte verschieben...
+cd "Revelation++"
+if exist "RevelationPlusPlus-main" (
+    echo Verschiebe Inhalte aus RevelationPlusPlus-main in den Hauptordner...
+    move "RevelationPlusPlus-main\*" .
+    rmdir /s /q "RevelationPlusPlus-main"
 )
-IF errorlevel 6 (
-	CD..
-	START "" MultiMC.exe -l "RevelationPlusPlus"
-	CD instances
-	DEL ModpackInstaller.bat
-	EXIT /B
+cd ..
+
+REM -------------------------------
+REM 5. ZIP-Datei löschen
+REM -------------------------------
+echo Nicht mehr benötigte Dateien löschen...
+if exist "%ZIPNAME%" (
+    echo Lösche ZIP-Datei...
+    del /f /q "%ZIPNAME%"
 )
 
-:MsgBox prompt type title
-    SETLOCAL enableextensions
-    SET "tempFile=Installation.vbs"
-    >"%tempFile%" ECHO(WScript.Quit msgBox("%~1",%~2,"%~3") & cscript //nologo //e:vbscript "%tempFile%"
-    SET "exitCode=%errorlevel%" & DEL "%tempFile%" >NUL 2>NUL
-    ENDLOCAL & EXIT /B %exitCode%
+REM -------------------------------
+REM 6. modpack_files.txt herunterladen und verarbeiten
+REM -------------------------------
+echo Modliste herunterladen...
+set FILELISTURL=https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/modpack_files.txt
+set FILELIST=temp_modpack_files.txt
+set TARGETROOT=Revelation++
+
+echo Lade die Liste der Modpack-Dateien herunter...
+curl -L --progress-bar -o "%FILELIST%" "%FILELISTURL%"
+
+REM -------------------------------
+REM 7. Zählen der gültigen Zeilen für Statusanzeige
+REM -------------------------------
+echo Status wird abgefragt...
+set /a count=0
+for /f "tokens=1,* delims= " %%A in (%FILELIST%) do (
+    set "TMPURL=%%~A"
+    set "TMPTARGET=%%~B"
+    if not "!TMPURL!"=="" if not "!TMPTARGET!"=="" if "!TMPURL:~0,1!" NEQ "#" set /a count+=1
+)
+
+REM -------------------------------
+REM 8. Dateien herunterladen mit Fortschrittsbalken
+REM -------------------------------
+echo Modpack wird heruntergeladen...
+set /a index=0
+for /f "tokens=1,* delims= " %%A in (%FILELIST%) do (
+    set "FILEURL=%%~A"
+    set "RELTARGET=%%~B"
+
+    REM Nur gültige Zeilen verarbeiten
+    if defined FILEURL if defined RELTARGET (
+        if "!FILEURL:~0,1!" NEQ "#" (
+            set /a index+=1
+            set "TARGET=%TARGETROOT%\!RELTARGET!"
+
+            REM Zielverzeichnis erstellen, falls nötig
+            for %%D in ("!TARGET!") do (
+                set "DIR=%%~dpD"
+                if not exist "!DIR!" mkdir "!DIR!"
+            )
+
+            REM Download mit Fortschrittsbalken
+            echo.
+            echo Lade Datei !index! von !count!: !FILEURL!
+            curl -L --progress-bar -o "!TARGET!" "!FILEURL!"
+            echo Datei !index! abgeschlossen.
+        )
+    )
+)
+
+REM -------------------------------
+REM 9. Aufräumen
+REM -------------------------------
+echo Aufräumen...
+del /f /q "%FILELIST%"
+
+echo.
+echo Alle Downloads abgeschlossen!
+REM -------------------------------
+REM 10. Benutzerfragen per MessageBox (VBScript)
+REM -------------------------------
+
+echo Set objShell = CreateObject("WScript.Shell") > msgbox.vbs
+echo result = MsgBox("Möchtest Du Revelation++ jetzt starten?", 4 + 32, "Installation abgeschlossen") >> msgbox.vbs
+echo WScript.Quit result >> msgbox.vbs
+
+cscript //nologo msgbox.vbs
+set MSGRESULT=%errorlevel%
+
+del /f /q msgbox.vbs
+
+REM MSGRESULT = 6 = Ja
+REM MSGRESULT = 7 = Nein
+
+if "%MSGRESULT%"=="6" (
+    echo Starte Revelation++...
+    cd..
+    START /B "" "MultiMC.exe" -d "MultiMC" -l "Revelation++" -s ""
+    exit /b
+)
+
+echo Revelation++ wurde nicht gestartet.
+exit /b
