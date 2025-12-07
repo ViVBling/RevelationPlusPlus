@@ -128,7 +128,7 @@ REM MSGRESULT = 7 = Nein
 if "%MSGRESULT%"=="6" (
     echo Starte Revelation++...
     cd..
-    START /B "" "MultiMC.exe" -d "MultiMC" -l "Revelation++" -s ""
+    START /B "" "MultiMC.exe" -l "Revelation++" -s ""
     exit /b
 )
 
