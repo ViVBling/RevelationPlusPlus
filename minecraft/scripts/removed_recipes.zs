@@ -83,3 +83,4 @@ recipes.remove(<advanced_solar_panels:crafting:3>);
 recipes.remove(<advanced_solar_panels:crafting:6>);
 recipes.remove(<advanced_solar_panels:crafting:12>);
 recipes.remove(<energycontrol:thermometer>);
+recipes.remove(<modularmachinery:itemmodularium>);

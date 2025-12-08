@@ -1,7 +1,6 @@
 //Custom Shapeless Recipes
 
 recipes.addShapeless(<biomesoplenty:fleshchunk> * 4, [<biomesoplenty:flesh>]);
-recipes.addShapeless(<cyclicmagic:battery_infinite>, [<ic2:debug_item>]);
 recipes.addShapeless(<galacticraftcore:grating>, [<quark:grate>]);
 recipes.addShapeless(<harvestcraft:freshwateritem>, [<toughasnails:purified_water_bottle>.transformReplace(<minecraft:glass_bottle>)]);
 recipes.addShapeless(<ic2:debug_item>, [<cyclicmagic:battery_infinite>]);
