@@ -1,7 +1,7 @@
 {
    "images":{
       "modpack":{
-         "image":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/revelation.png",
+         "image":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/revelation.png",
          "posX":-141.5,
          "posY":87,
          "width":283,
@@ -20,7 +20,7 @@
          "normalTextColor":15539236,
          "hoverTextColor":-1,
          "alignment":"left_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/singleplayer.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/singleplayer.png",
          "action":{
             "type":"openGui",
             "gui":"singleplayer"
@@ -36,7 +36,7 @@
          "normalTextColor":29117,
          "hoverTextColor":-1,
          "alignment":"left_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/multiplayer.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/multiplayer.png",
          "action":{
             "type":"openGui",
             "gui":"multiplayer"
@@ -52,7 +52,7 @@
          "normalTextColor":9728058,
          "hoverTextColor":-1,
          "alignment":"left_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/options.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/options.png",
          "action":{
             "type":"openGui",
             "gui":"options"
@@ -68,7 +68,7 @@
          "normalTextColor":16763909,
          "hoverTextColor":-1,
          "alignment":"left_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/mods.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/mods.png",
          "action":{
             "type":"openGui",
             "gui":"mods"
@@ -84,7 +84,7 @@
          "normalTextColor":49138,
          "hoverTextColor":-1,
          "alignment":"left_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/language.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/language.png",
          "action":{
             "type":"openGui",
             "gui":"languages"
@@ -100,7 +100,7 @@
          "normalTextColor":8438338,
          "hoverTextColor":-1,
          "alignment":"right_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/support.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/support.png",
          "action":{
             "type":"openLink",
             "link":"https://github.com/ViVBling/RevelationPlusPlus/wiki/Fehler-und-Probleme"
@@ -116,7 +116,7 @@
          "normalTextColor":2700077,
          "hoverTextColor":-1,
          "alignment":"right_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/wiki.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/wiki.png",
          "action":{
             "type":"openLink",
             "link":"https://github.com/ViVBling/RevelationPlusPlus/wiki"
@@ -132,10 +132,10 @@
          "normalTextColor":5793266,
          "hoverTextColor":-1,
          "alignment":"right_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/discord.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/discord.png",
          "action":{
             "type":"openLink",
-            "link":"https://discord.gg/dmma4C6SEj"
+            "link":"https://discord.gg/gm6mRVPXH8"
          }
       },
       "server":{
@@ -164,7 +164,7 @@
          "normalTextColor":11233195,
          "hoverTextColor":-1,
          "alignment":"right_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/quit.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/quit.png",
          "action":{
             "type":"quit"
          }
@@ -176,7 +176,7 @@
          "width":20,
          "height":20,
          "alignment":"top_right",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/refresh.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/refresh.png",
          "action":{
             "type":"refresh"
          }
@@ -184,7 +184,7 @@
    },
    "labels":{
       "version":{
-         "text":"Pack Version: 24w25",
+         "text":"Pack Version: 25w45",
          "posX":2,
          "posY":-30,
          "fontSize":1,
@@ -235,7 +235,7 @@
             "image" : "",
             "slideshow":
             {
-                "images" : ["web:https://wallpapercave.com/wp/wp11205121.jpg","web:https://gtwallpaper.org/sites/default/files/wallpaper/203698/feed-the-beast-wallpapers-203698-1178557-8763992.png"],
+                "images" : ["milifi:textures/gui/title/1.jpg","milifi:textures/gui/title/2.png"],
                 "displayDuration" : 200,
                 "fadeDuration" : 50
             },
