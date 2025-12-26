@@ -366,5 +366,6 @@
 "https://www.curseforge.com/api/v1/mods/281669/files/2545902/download" "minecraft\mods\EnhancedSnowman-1.12-1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/289309/files/2561659/download" "minecraft\mods\Peckish-1.12-1.1.0.jar"
 "https://www.curseforge.com/api/v1/mods/870276/files/5212709/download" "minecraft\mods\!configanytime-3.0.jar"
+"https://www.curseforge.com/api/v1/mods/291090/files/2598727/download" "minecraft\mods\betteroffhand-1.12.2-0.2.jar"
 "https://www.curseforge.com/api/v1/mods/294602/files/2565559/download" "minecraft\mods\bedrockbreaks-1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/869524/files/4953961/download" "minecraft\mods\watermedia-2.0.25.jar"
