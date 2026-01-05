@@ -148,7 +148,7 @@
          "normalTextColor":16225053,
          "hoverTextColor":-1,
          "alignment":"right_center",
-         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/mainmenu/server.png",
+         "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/server.png",
          "action":{
             "type":"connectToServer",
             "ip":"karlscraft.ddns.net"
