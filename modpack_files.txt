@@ -362,6 +362,7 @@
 "https://www.curseforge.com/api/v1/mods/297057/files/2668704/download" "minecraft\mods\letsencryptcraft-1.10.2-1.2.0.jar"
 "https://www.curseforge.com/api/v1/mods/254032/files/2595728/download" "minecraft\mods\longfallboots-1.2.1b.jar"
 "https://www.curseforge.com/api/v1/mods/388180/files/2974111/download" "minecraft\mods\watercontrol-1.0.jar"
+"https://www.curseforge.com/api/v1/mods/254144/files/2507277/download" "minecraft\mods\soundreloader-1.2-1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/264684/files/2606175/download" "minecraft\mods\dirt2path-1.8.0.jar"
 "https://www.curseforge.com/api/v1/mods/281669/files/2545902/download" "minecraft\mods\EnhancedSnowman-1.12-1.0.1.jar"
 "https://www.curseforge.com/api/v1/mods/289309/files/2561659/download" "minecraft\mods\Peckish-1.12-1.1.0.jar"
