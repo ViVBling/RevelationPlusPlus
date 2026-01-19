@@ -173,7 +173,7 @@
 "https://www.curseforge.com/api/v1/mods/281791/files/2534481/download" "minecraft\mods\careerbees-0.4.0.jar"
 "https://www.curseforge.com/api/v1/mods/238222/files/4538010/download" "minecraft\mods\jei_1.12.2-4.16.1.1003.jar"
 "https://www.curseforge.com/api/v1/mods/231868/files/2972849/download" "minecraft\mods\EnderCore-1.12.2-0.5.76.jar"
-"https://www.curseforge.com/api/v1/mods/435557/files/4547571/download" "minecraft\mods\LittleFrames_UNOFFICAL_by_Blake_v1.0.14_mc1.12.2.jar"
+"https://www.curseforge.com/api/v1/mods/435557/files/5191735/download" "minecraft\mods\LittleFrames_NO_WATERMEDIA_by_Blake_v1.1.4_mc1.12.2.jar"
 "https://www.curseforge.com/api/v1/mods/287275/files/4000252/download" "minecraft\mods\PlanetProgression-1.12.2-0.4.8.jar"
 "https://www.curseforge.com/api/v1/mods/223852/files/2952606/download" "minecraft\mods\StorageDrawers-1.12.2-5.4.2.jar"
 "https://www.curseforge.com/api/v1/mods/250763/files/2705813/download" "minecraft\mods\rftoolsctrl-1.12-2.0.2.jar"
@@ -369,4 +369,3 @@
 "https://www.curseforge.com/api/v1/mods/870276/files/5212709/download" "minecraft\mods\!configanytime-3.0.jar"
 "https://www.curseforge.com/api/v1/mods/291090/files/2598727/download" "minecraft\mods\betteroffhand-1.12.2-0.2.jar"
 "https://www.curseforge.com/api/v1/mods/294602/files/2565559/download" "minecraft\mods\bedrockbreaks-1.0.1.jar"
-"https://www.curseforge.com/api/v1/mods/869524/files/4953961/download" "minecraft\mods\watermedia-2.0.25.jar"
