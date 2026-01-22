@@ -15,6 +15,7 @@ recipes.addShapeless(<minecraft:structure_void>, [<matteroverdrive:gravitational
 recipes.addShapeless(<quark:grate>, [<galacticraftcore:grating>]);
 recipes.addShapeless(<quark:grate>, [<ore:barsIron>]);
 recipes.addShapeless(<toughasnails:purified_water_bottle>, [<minecraft:glass_bottle>,<harvestcraft:freshwateritem>]);
+recipes.addShapeless(<toughasnails:purified_water_bottle>, [<binniecore:glass>,<harvestcraft:freshwateritem>]);
 recipes.addShapeless(<thebetweenlands:rubber_block>, [<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>,<ore:itemRubber>]);
 recipes.addShapeless(<opensignals:electricparts>, [<ore:redstoneTorch>,<minecraft:repeater>,<minecraft:comparator>,<opencomputers:material:4>,<opencomputers:material:6>,<ore:plateRedstone>,<quark:redstone_randomizer>,<quark:redstone_inductor>,<ore:circuitBasic>]);
 recipes.addShapeless(<opensignals:signalplate>, [<ore:plateAluminum> * 9]);
