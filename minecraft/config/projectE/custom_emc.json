@@ -246,7 +246,7 @@
     },
     {
       "item": "openblocks:heal|0",
-      "emc": 0
+      "emc": 53455320
     },
     {
       "item": "twilightforest:twilight_sapling|4",
@@ -289,10 +289,6 @@
       "emc": 0
     },
     {
-      "item": "ore:gemAmber|0",
-      "emc": 0
-    },
-    {
       "item": "OD|gemAmber",
       "emc": 300
     },
@@ -323,6 +319,10 @@
     {
       "item": "translocators:translocator_part|0",
       "emc": 0
+    },
+    {
+      "item": "minecraft:chest|0",
+      "emc": 64
     }
   ]
 }
