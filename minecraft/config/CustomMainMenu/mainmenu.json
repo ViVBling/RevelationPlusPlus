@@ -129,7 +129,7 @@
          "textOffsetX":0,
          "width":70,
          "height":16,
-         "normalTextColor":5793266,
+         "normalTextColor":57936,
          "hoverTextColor":-1,
          "alignment":"right_center",
          "texture":"web:https://raw.githubusercontent.com/ViVBling/RevelationPlusPlus/refs/heads/main/minecraft/resources/mainmenu/discord.png",
@@ -184,7 +184,7 @@
    },
    "labels":{
       "version":{
-         "text":"Pack Version: 25w45",
+         "text":"Pack Version: 26w5",
          "posX":2,
          "posY":-30,
          "fontSize":1,
