@@ -1,29 +1,38 @@
 [
-   {
-      "names":[
-         "toughasnails:jelled_slime_helmet",
-         "toughasnails:jelled_slime_chestplate",
-         "toughasnails:jelled_slime_leggings",
-         "toughasnails:jelled_slime_boots"
-      ],
-      "modifier":-4
-   },
-   {
-      "names":[
-         "toughasnails:wool_helmet",
-         "toughasnails:wool_chestplate",
-         "toughasnails:wool_leggings",
-         "toughasnails:wool_boots"
-      ],
-      "modifier":4
-   },
-   {
-      "names":[
-         "minecraft:leather_helmet",
-         "minecraft:leather_chestplate",
-         "minecraft:leather_leggings",
-         "minecraft:leather_boots"
-      ],
-      "modifier":5
-   }
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+	  "toughasnails:jelled_slime_chestplate",
+	  "toughasnails:jelled_slime_leggings",
+	  "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -4
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+	  "toughasnails:wool_chestplate",
+	  "toughasnails:wool_leggings",
+	  "toughasnails:wool_boots"
+    ],
+    "modifier": 4
+  },
+  {
+    "names": [
+      "mocreatures:furhelmet",
+	  "mocreatures:furchest",
+	  "mocreatures:furlegs",
+	  "mocreatures:furboots"
+    ],
+    "modifier": 4
+  },
+  {
+    "names": [
+      "twilightforest:arctic_helmet",
+	  "twilightforest:arctic_chestplate",
+	  "twilightforest:arctic_leggings",
+	  "twilightforest:arctic_boots"
+    ],
+    "modifier": 4
+  }
 ]
