@@ -4,7 +4,6 @@
 "https://mediafilez.forgecdn.net/files/2643/67/V10verlap-5.0.2.jar" "minecraft\mods\V10verlap-5.0.2.jar"
 "https://mediafilez.forgecdn.net/files/2931/402/Unifine-1.12.2-0.1.0.jar" "minecraft\mods\Unifine-1.12.2-0.1.0.jar"
 "https://mod-buildcraft.com/releases/BuildCraft/7.99.24.8/buildcraft-all-7.99.24.8.jar" "minecraft\mods\buildcraft-all-7.99.24.8.jar"
-"https://repo1.maven.org/maven2/com/fazecast/jSerialComm/2.11.4/jSerialComm-2.11.4.jar" "minecraft\mods\jSerialComm-2.11.4.jar"
 "https://static.wixstatic.com/media/f0a694_15fb36b5c613a275825fb2d8176a03cc.png" "minecraft\icon.png"
 "https://www.curseforge.com/api/v1/mods/220318/files/2842510/download" "minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
 "https://www.curseforge.com/api/v1/mods/220495/files/2713186/download" "minecraft\mods\SophisticatedWolves-1.12.2-3.13.8.jar"
